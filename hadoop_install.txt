@@ -1,0 +1,124 @@
+    1  sudo addgroup hadoop
+    2  sudo appuser --ingroup hadoop hduser
+    3  sudo adduser --ingroup hadoop hduser
+    4  sudo adduser hduser sudo 
+    5  sudo apt install ssh 
+    6  su -hduser
+    7  su - hduser
+    8  sudo apt install htop
+    9  htop
+   10  exit
+   11  sudo shutdown now
+   12  htop
+   13  ls
+   14  su - hduser
+   15  wget http://redrockdigimark.com/apachemirror/hive/hive-2.3.3/apache-hive-2.3.3-bin.tar.gz
+   16  ls
+   17  tar xvf apache-hive-2.3.3-bin.tar.gz 
+   18  su - hduser
+   19  sudo shutdown now
+   20  sudo shutdown -r now
+   21  htop
+   22  exit
+   23  hive
+   24  su - hduser
+   25  ls
+   26  su -  hduser
+   27  su - hduser
+   28  htop
+   29  wget http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/R/eclipse-jee-luna-R-linux-gtk-x86_64.tar.gz
+   30  ls
+   31  htop
+   32  sudo shutdown now
+   33  ls
+   34  java -version
+   35  vi full.pub
+   36  exit
+   37  /usr/local/hadoop/bin/start-all.sh
+   38  /usr/local/hadoop/sbin/start-all.sh
+   39  jps
+   40  su - hduser
+   41  exit
+   42  su - hduser
+   43  exit
+   44  wget http://speedtest.tele2.net/10GB.zip
+   45  kill %1
+   46  ls
+   47  rm download.php?file=%2Ftechnology%2Fepp%2Fdownloads%2Frelease%2Fluna%2FR%2Feclipse-jee-luna-R-linux-gtk-x86_64.tar.gz
+   48  df -h
+   49  rm 10GB.zip
+   50  df -h
+   51  ls
+   52  rm apache-hive-2.3.3-bin.tar.gz
+   53  rm -r apache-hive-2.3.3-bin
+   54  df -h
+   55  su - hduser
+   56  exit
+   57  ls
+   58  su - hduser
+   59  sudo shutdown now
+   60  lsexit
+   61  exit
+   62  df -h
+   63  sudo apt install docker.io
+   64  screen
+   65  screen -S yunus
+   66  exit
+   67  docker
+   68  docker pull cloudera/quickstart:latest
+   69  sudo usermod -a -G docker $USER
+   70  docker pull cloudera/quickstart:latest
+   71  sudo docker pull cloudera/quickstart:latest
+   72  df -h
+   73  ls
+   74  sudo shutdown now
+   75  screen -r yunus
+   76  su - hduser
+   77  sudo shutdown -r now
+   78  su - hduser
+   79  wget https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
+   80  ls
+   81  tar -xvf spark-2.3.1-bin-hadoop2.7.tgz 
+   82  tar -xvzf spark-2.3.1-bin-hadoop2.7.tgz 
+   83  htop
+   84  df -h
+   85  ls
+   86  su - hduser
+   87  ls
+   88  rm spark-2.3.1-bin-hadoop2.7.tgz
+   89  su - hduser
+   90  htop
+   91  hduser
+   92  su - hduser
+   93  ls
+   94  su - hduser
+   95  htop
+   96  sudo shutdown -r now
+   97  htop
+   98  su - hduser
+   99  sudo shutdown -r now
+  100  exit
+  101  htop
+  102  sudo shutdown -r now
+  103  htop
+  104  su - hduser
+  105  df -h
+  106  conda
+  107  su - hduser
+  108  df -h
+  109  tree /dev/sda1
+  110  sudo tree /dev/sda1
+  111  sudo ls /dev/sda1
+  112  sudo ls /dev/sda1 -l
+  113  ls /dev/sda1 -l
+  114  sudo shutdown now
+  115  htop
+  116  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  117  df -h
+  118  ls /dev/sda1
+  119  tree /dev/sda1
+  120  sudo apt install tree
+  121  screen -S yunud
+  122  su - hduser
+  123  ls
+  124  history >hadoop_install.txt

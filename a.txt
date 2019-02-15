@@ -1,0 +1,520 @@
+    1  ssh-keygen -t rsa -P ""
+    2  cat $HOME/ .ssh/id_rsa.pub>> $HOME/ .ssh/authorized_keys
+    3  ssh localhost
+    4  wget http://redrockdigimark.com/apachemirror/hadoop/common/hadoop-2.9.1/hadoop-2.9.1.tar.gz
+    5  ls
+    6  tar xvf hadoop-2.9.1.tar.gz 
+    7  ls
+    8  mv hadoop-2.9.1 hadoop
+    9  ls
+   10  ls hadoop
+   11  ls hadoop/bin
+   12  sudo mv hadoop /usr/local
+   13  vi .bashrc
+   14  ls
+   15  source .bashrc
+   16  sudo vi /usr/local/hadoop/etc/hadoop-env.sh
+   17  ls /usr/local/hadoop/etc
+   18  sudo vi /usr/local/hadoop/etc/hadoop/hadoop-env.sh
+   19  sudo vi /usr/local/hadoop/etc/hadoop/core-site.xml
+   20  sudo vi /usr/local/hadoop/etc/hadoop/hdfs-site.xml
+   21  sudo vi /usr/local/hadoop/etc/hadoop/yarn-site.xml
+   22  sudo vi /usr/local/hadoop/etc/hadoop/mapred-site.xml
+   23  sudo cp /usr/local/hadoop/etc/hadoop/mapred-site.xml.template /usr/local/hadoop/mapred-site.xml
+   24  sudo vi /usr/local/hadoop/etc/hadoop/mapred-site.xml.tmeplate
+   25  sudo vi /usr/local/hadoop/etc/hadoop/mapred-site.xml.template
+   26  sudo cp /usr/local/hadoop/etc/hadoop/mapred-site.xml.template /usr/local/hadoop/etc/hadoop
+   27  sudo mv /usr/local/hadoop/etc/hadoop/mapred-site.xml.template /usr/local/hadoop/etc/hadoop/mapred-site.xml
+   28  sudo vi /usr/local/hadoop/etc/hadoop/mapred-site.xml
+   29  sudo mkdir -p /usr/local/hadoop_space
+   30  sudo mkdir -p /usr/local/hadoop_space/namenode
+   31  sudo mkdir -p /usr/local/hadoop_space/datanode
+   32  sudo chown -R hduser /usr/local/hadoop_space
+   33  hdfs namenode -format
+   34  vi /usr/local/hadoop/bin/hdfs
+   35  java
+   36  sudo apt install default-jdk
+   37  sudo shutdown -r now
+   38  sudo apt install default-jdk
+   39  sudo apt update
+   40  sudo apt upgrade
+   41  sudo apt install default-jdk
+   42  sudo apt install htop
+   43  htop
+   44  hdfs namenode -format
+   45  sudo chmod 777 /usr/local
+   46  hdfs namenode -format
+   47  ls
+   48  hadoop
+   49  exit
+   50  ssh loaclhost
+   51  ssh loacalhost
+   52  ssh-keygen -t rsa
+   53  cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+   54  chmod og-wx ~/.ssh/authorized_keys 
+   55  /usr/local/hadoop/sbin/start-all.sh
+   56  jps
+   57  hadoop version
+   58  vi .bashrc
+   59  source .bashrc
+   60  sudo vi /etc/hosts
+   61  wget export HBASE_HOME=/usr/local/hbase
+   62  wget http://redrockdigimark.com/apachemirror/hbase/2.1.0/hbase-2.1.0-bin.tar.gz
+   63  /usr/local/hadoop/sbin/start-all.sh
+   64  jps
+   65  ls
+   66  tar xf hbase-2.1.0-bin.tar.gz
+   67  ls 
+   68  mv hbase-2.1.0 hbase
+   69  mv hbase /usr/local
+   70  vi /usr/local/hbase/conf/hbase-env.sh
+   71  vi /usr/local/hbase/conf/hbase-site.xml
+   72  ls /usr/local
+   73  /usr/local/hbase/bin/start-hbase.sh
+   74  jps
+   75  vi /usr/local/hbase/conf/regionserver
+   76  vi /usr/local/hbase/conf/regionservers
+   77  ./(/usr/local/hbase/bin/start-hbase.sh)
+   78  ./{/usr/local/hbase/bin/start-hbase.sh}
+   79  /usr/local/hbase/bin/start-hbase.sh
+   80  jps
+   81  /usr/local/hadoop/sbin/start-all.sh
+   82  jps
+   83  .//usr/local/hbase/bin/start-hbase.sh
+   84  ./usr/local/hbase/bin/start-hbase.sh
+   85  /usr/local/hbase/bin/start-hbase.sh
+   86  ls
+   87  hbase
+   88  hbase shell
+   89  jps
+   90  kill %1
+   91  jobs
+   92  kill %1
+   93  jobs
+   94  htop
+   95  sudo shutdown now
+   96  wget http://redrockdigimark.com/apachemirror/hive/hive-2.3.3/apache-hive-2.3.3-bin.tar.gz
+   97  tar xvf apache-hive-2.3.3-bin.tar.gz 
+   98  ls
+   99  hadoop -fs -p /user/hive/warehouse
+  100  hadoop fs -p /user/hive/warehouse
+  101  hadoop fs -mkdir -p /user/hive/warehouse
+  102  /usr/local/hadoop/bin/start-all.sh
+  103  /usr/local/hadoop/sbin/start-all.sh
+  104  hadoop fs -mkdir -p /user/hive/warehouse
+  105  hadoop fs -chmod g+w /user/hive/warehouse
+  106  hadoop fs -chmod g+w /tmp
+  107  ls
+  108  vi apache-hive-2.3.3-bin/bin/hive-config.sh
+  109  vi .bashrc
+  110  mv apache-hive-2.3.3-bin /usr/local
+  111  vi .bashrc
+  112  source .bashrc
+  113  vi apache-hive-2.3.3-bin/bin/hive-config.sh
+  114  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  115  source .bashrc
+  116  hive
+  117  vi .bashrc
+  118  ls /usr/local
+  119  chmod 777 /usr/local
+  120  sudo chmod 777 /usr/local
+  121  ls
+  122  sudo chmod 777 /usr/local
+  123  source .bashrc
+  124  hive
+  125  ls
+  126  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  127  hive
+  128  vi .bashrc
+  129  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  130  source .bashrc
+  131  hive
+  132  sudo shutdown -r now
+  133  hive
+  134  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  135  sudo chmod 777 /usr/local/apache-hive-2.3.3-bin
+  136  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  137  source .bashrc
+  138  hive
+  139  source .bashrc
+  140  vi .bashrc
+  141  ls
+  142  vi .bashrc
+  143  source .bashrc
+  144  hive
+  145  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  146  ls /usr/local/apache-hive-2.3.3-bin/bin
+  147  vi /usr/local/apache-hive-2.3.3-bin/bin/hive-config.sh
+  148  ls /usr/local/apache-hive-2.3.3-bin/bin
+  149  find /usr/local -iname "hive-env.sh"
+  150  find /usr/local -iname "hive-site.xml"
+  151  hive
+  152  ls
+  153  tar xf apache-hive-2.3.3-bin.tar.gz 
+  154  ls apache-hive-2.3.3-bin
+  155  ls apache-hive-2.3.3-bin/conf
+  156  vi /usr/local/apache-hive-2.3.3-bin/conf/hive-env.sh.template
+  157  exit
+  158  hive
+  159  ls /usr/local
+  160  vi .bashrc
+  161  hive
+  162  source .bashrc
+  163  hive
+  164  echo $HADOOP_HOME
+  165  hdfs dfs -ls
+  166  hdfs dfs -ls /
+  167  sudo update-rc.d hadoop-hdfs-namenode defaults
+  168  sudo chkconfig hue on
+  169  hdfs dfs -ls
+  170  history |grep "start"
+  171  /usr/local/hadoop/sbin/start-all.sh
+  172  hdfs dfs -ls /
+  173  hdfs dfs -mkdir /user/hive/warehouse
+  174  hdfs dfs -mkdir /tmp
+  175  hdfs dfs -chmod g+w /tmp
+  176  hdfs dfs -chmod g+w /user/hive/warehouse
+  177  hdfs dfs -ls /
+  178  hdfs dfs -ls /user
+  179  cd $HIVE_HOME/conf
+  180  sudo cp hive-env.sh.template hive-env.sh
+  181  ls
+  182  vi hive-env.sh
+  183  source .bashrc
+  184  source ~/.bashrc
+  185  hive
+  186  ls
+  187  ls -l
+  188  hive --service metastore 
+  189  vi hive-env.sh
+  190  sudo vi hive-env.sh
+  191  hive
+  192  sudo apt install mysql
+  193  sudo apt install sql
+  194  sudo apt-get install mysql-server
+  195  mysql -u root -p
+  196  sudo mysql -u root -p
+  197  kill %1
+  198  jobs
+  199  kill %2
+  200  sudo kill %2
+  201  sudo kill %1
+  202  ls
+  203  find /usr/local -iname hive-site.xml
+  204  find /usr/local -iname "hive-site.xml"
+  205  find /usr/local -iname "hive-site.xml"
+  206  sudo vi hive-site.xml 
+  207  ls 
+  208  ls ../
+  209  ls ../lib
+  210  ls
+  211  hive
+  212  exit
+  213  sudo shutdown now
+  214  htop
+  215  history |grep "start"
+  216  /usr/local/hadoop/sbin/start-all.sh
+  217  find /usr/local -iname "hive-site.xml.template"
+  218  find /usr/local -iname "hive-site.xml"
+  219  sudo vi /usr/local/apache-hive-2.3.3-bin/conf/hive-site.xml
+  220  ls
+  221  df -h
+  222  sudo apt install libmysql-java
+  223  hive
+  224  ls
+  225  ln -s /usr/share/java/mysql-connector-java.jar $HIVE_HOME/lib/mysql-connector-java.jar
+  226  mysql -u root -p
+  227  sudo mysql -u root -p
+  228  hive
+  229  sudo shutdown now
+  230  /usr/local/hadoop/bin/start-all.sh
+  231  /usr/local/hadoop/sbin/start-all.sh
+  232  jps
+  233  htop
+  234  sudo vi /etc/hosts
+  235  exit
+  236  jps
+  237  vi ~/.ssh/config
+  238  /usr/local/hadoop/sbin/start-all.sh
+  239  htop
+  240  ls
+  241  history |grep "gutils"
+  242  ls
+  243  gutils
+  244  gutil
+  245  gsutil
+  246  gsutil cp -p gs://mohammed_yunus/wordcount.jar gs://"mohammed_yunus/Copy of wordcount.jar"
+  247  ls
+  248  gsutil cp -p gs://mohammed_yunus/wordcount.jar .
+  249  ls
+  250  rm hadoop-2.9.1.tar.gz
+  251  rm -r *tar.gz
+  252  ls
+  253  rm -r apache-hive-2.3.3-bin
+  254  jps
+  255  wget http://iiti.ac.in/people/~tanimad/JavaTheCompleteReference.pdf
+  256  ls
+  257  mv JavaTheCompleteReference.pdf ip.csv
+  258  ls
+  259  hadoop dfs -put ip.csv /
+  260  hdfs fs -ls /
+  261  hdfs dfs -ls /
+  262  chmod 777 *
+  263  ls
+  264  hadoop jar wordcount.jar /ip.csv /output
+  265  hadoop dfs -ls /
+  266  hadoop dfs -ls /output
+  267  hadoop dfs -cat /output/part-r-0000
+  268  hadoop dfs -cat /output/output/part-r-0000
+  269  hadoop dfs -cat /output/part-r-00000
+  270  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;
+  271  ls
+  272  wget https://www.gutenberg.org/files/1342/1342-0.txt
+  273  ls
+  274  mv 1342-0.txt ip1.txt
+  275  hdfs dfs -put ip1.txt /
+  276  hadoop jar wordcount.jar /ip1.txt /output1
+  277  hadoop dfs -cat /output1/part-r-000000
+  278  hadoop dfs -cat /output1/part-r-00000
+  279  ls
+  280  jobs
+  281  mv ip.csv ip.pdf
+  282  df -h
+  283  htop
+  284  wget http://speedtest.tele2.net/1GB.zip
+  285  kill %1
+  286  wget -O http://speedtest.tele2.net/1GB.zip
+  287  wget ftp://ftp.otenet.gr/test5Gb-a.db
+  288  wget ftp.otenet.gr/test5Gb-a.db
+  289  wget google.com
+  290  wget ftp://ftp.otenet.gr/test5Gb-a.db
+  291  exit
+  292  ls
+  293  1GB.zip
+  294  rm 1GB.zip
+  295  ls
+  296  rm index.html
+  297  ls
+  298  wget http://speedtest.tele2.net/1GB.zip
+  299  wget https://zenodo.org/record/1160455
+  300  ls
+  301  ls -l
+  302  exit 
+  303  ls
+  304  wget https://www.gutenberg.org/files/1342/1342-0.txt
+  305  ls
+  306  hdfs -put /1342-0.txt /1342-0.txt
+  307  jps
+  308  /usr/local/hadoop/sbin/start-all.sh
+  309  ls
+  310  hdfs -put /1342-0.txt /1342-0.txt
+  311  hdfs dfs -put /1342-0.txt /1342-0.txt
+  312  hdfs dfs -put 1342-0.txt /1342-0.txt
+  313  hdfs dfs -ls /
+  314  ls
+  315  hadoop wordcount.jar WordCount /1342-0.txt /output3
+  316  hadoop jar wordcount.jar WordCount /1342-0.txt /output3
+  317  hadoop jar wordcount.jar wordcount /1342-0.txt /output3
+  318  hadoop jar wordcount.jar WordCount /1342-0.txt /output3
+  319  jps
+  320  hadoop jar wordcount.jar WordCount /1342-0.txt /output3
+  321  ls
+  322  hdfs dfs -ls /
+  323  hdfs dfs -put 1342-0.txt /1342-0.txt
+  324  hdfs dfs -ls /
+  325  hadoop jar wordcount.jar WordCount /1342-0.txt /output3
+  326  hdfs dfs -ls /
+  327  hadoop jar wordcount.jar WordCount /ip.csv /output3
+  328  hdfs dfs -ls /
+  329  hadoop jar wordcount.jar WordCount /ip.csv /output1
+  330  exit
+  331  ls
+  332  hadoop -version
+  333  hadoop --version
+  334  hadoop -version
+  335  hadoop version
+  336  wget https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
+  337  ls
+  338  tar xvf spark-2.0.2-bin-hadoop2.7.tgz
+  339  tar xvf spark-2.3.1-bin-hadoop2.7.tgz
+  340  tar -xvf spark-2.3.1-bin-hadoop2.7.tgz
+  341  sudo apt upgrade tar
+  342  tar -xvf spark-2.3.1-bin-hadoop2.7.tgz
+  343  ls
+  344  tar xvf spark-2.3.1-bin-hadoop2.7.tgz
+  345  tar xvf spark-2.0.2-bin-hadoop2.7.tgz
+  346  ls
+  347  tar xvf spark-2.3.1-bin-hadoop2.7.tgz 
+  348  tar -xvf spark-2.3.1-bin-hadoop2.7.tgz 
+  349  unzip -d . sparktar xvf spark-2.0.2-bin-hadoop2.7.tgz
+  350  unzip -d . spark-2.3.1-bin-hadoop2.7.tgz
+  351  sudo apt install unzip
+  352  unzip -d . spark-2.3.1-bin-hadoop2.7.tgz
+  353  unzip spark-2.3.1-bin-hadoop2.7.tgz -d .
+  354  ls
+  355  unzip spark-2.3.1-bin-hadoop2.7.tgz -d .
+  356  tar -xzvf spark-2.3.1-bin-hadoop2.7.tgz 
+  357  wget https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
+  358  ls
+  359  tar -xzvf spark-2.3.1-bin-hadoop2.7.tgz 
+  360  tar -xvzf spark-2.3.1-bin-hadoop2.7.tgz 
+  361  tar -xf spark-2.3.1-bin-hadoop2.7.tgz 
+  362  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz 
+  363  exit
+  364  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz 
+  365  exit
+  366  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz 
+  367  gunzip
+  368  ginzip -c spark-2.3.1-bin-hadoop2.7.tgz|tar -xvf
+  369  gunzip -c spark-2.3.1-bin-hadoop2.7.tgz|tar -xvf
+  370  gunzip -c spark-2.3.1-bin-hadoop2.7.tgz
+  371  tar zxvf spark-2.3.1-bin-hadoop2.7.tgz 
+  372  gzip
+  373  rm spark-2.3.1-bin-hadoop2.7.tgz
+  374  wget https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
+  375  ls
+  376  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz
+  377  sudo pip install pyspark
+  378  sudo apt install python-pip
+  379  sudo apt install python-dev
+  380  sudo apt install python
+  381  sudo pip install pyspark
+  382  ls
+  383  python 
+  384  ls
+  385  htop
+  386  ls
+  387  htop
+  388  vi mapper.py
+  389  vi reducer.py
+  390  echo "foo foo quux labs foo bar quux"|python mapper.py
+  391  echo "foo foo quux labs foo bar quux"|python mapper.py|python reducer.py
+  392  ls
+  393  cat 1342-0.txt|python mapper.py|python reducer.py
+  394  /usr/local/hadoop/sbin/start-all.sh
+  395  hdfs dfs -ls /
+  396  ls
+  397  hdfs dfs -put 1342-0.txt /1342-0.txt
+  398  history |grep '*straeaming*'
+  399  history |grep "*straeaming*"
+  400  history |grep "straeaming*"
+  401  history |grep *straeaming*
+  402  history |grep straeaming
+  403  history |grep streaaming
+  404  history |grep streaming
+  405  history |grep "streaming"
+  406  history |grep streaming
+  407  find /usr/local -iname hadoop-*streaming*.jar
+  408  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file ./mapper.py    -mapper ./mapper.py -file ./reducer.py   -reducer ./reducer.py -input /1342-0.txt -output /output1
+  409  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file mapper.py    -mapper mapper.py -file reducer.py   -reducer reducer.py -input /1342-0.txt -output /output1
+  410  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file mapper.py    -mapper mapper.py -file reducer.py   -reducer reducer.py -input /1342-0.txt -output /output2
+  411  sudo apt upgrade tar
+  412  sudo apt upgrade gunzip
+  413  sudo apt upgrade zip
+  414  sudo apt upgrade
+  415  sudo apt update
+  416  sudo apt upgrade
+  417  sudo apt upgrade zip
+  418  sudo apt upgrade gunzip
+  419  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz 
+  420  gzip
+  421  sudo apt upgrade gzip
+  422  ls
+  423  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz.1 
+  424  gzip -V spark-2.3.1-bin-hadoop2.7.tgz.1
+  425  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz.1 
+  426  tar -xvzf spark-2.3.1-bin-hadoop2.7.tgz.1 
+  427  exit 
+  428  ls
+  429  ls -shr
+  430  rm 1GB.zip
+  431  ls
+  432  df -h
+  433  tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz.1 
+  434  ls /usr
+  435  ls
+  436  ls /
+  437  ls /home
+  438  ls /home/mohammedyunus009/
+  439  exit
+  440  jps
+  441  htop
+  442  jobs
+  443  ls
+  444  sudo shutdown now
+  445  ls
+  446  rm 
+  447  rm spark-2.3.1-bin-hadoop2.7.tgz
+  448  rm spark-2.3.1-bin-hadoop2.7.tgz.1
+  449  ls
+  450  ls mohammedyunus009/
+  451  rm -r mohammedyunus009/
+  452  ls mohammedyunus009/
+  453  ls
+  454  rm -r mohammedyunus009/
+  455  ls -a mohammedyunus009/
+  456  sudo rm -r mohammedyunus009
+  457  ls
+  458  vi ~.bashrc
+  459  vi ~/.bashrc
+  460  ls 
+  461  vi ~/.bashrc
+  462  pwd
+  463  vi ~/.bashrc
+  464  source .bashrc
+  465  ls
+  466  /usr/local/hadoop/sbin/start-all.sh
+  467  sc.version
+  468  spark-shell
+  469  hdfs dfs -ls /
+  470  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file mapper.py    -mapper mapper.py -file reducer.py   -reducer reducer.py -input /1342-0.txt -output /output3
+  471  vi mapper.py 
+  472  vi reducer.py
+  473  ls
+  474  ls -l 
+  475  chmod 777 *.py
+  476  ls -l 
+  477  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output4
+  478  jobs
+  479  ls
+  480  /usr/local/hadoop/sbin/stop-all.sh
+  481  exit
+  482  ls
+  483  /usr/local/hadoop/sbin/start-all.sh
+  484  hdfs dfs -ls /
+  485  hdfs dfs -rm /output
+  486  hdfs dfs -rmr /output
+  487  hdfs dfs -rmr /output1
+  488  hdfs dfs -rmr /output2
+  489  hdfs dfs -rmr /output3
+  490  ls
+  491  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output
+  492  hdfs dfs -ls /output
+  493  hdfs dfs -cat /output/part-00000
+  494  ls
+  495  exit
+  496  /usr/local/hadoop/sbin/stop-all.sh
+  497  exit
+  498  ls
+  499  /usr/local/hadoop/sbin/start-all.sh
+  500  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output1
+  501  df -h
+  502  sudo hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output1
+  503  hadoop dfs -ls /
+  504  ls
+  505  sudo hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output1
+  506  hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.1.jar -file /home/hduser/mapper.py    -mapper /home/hduser/mapper.py -file /home/hduser/reducer.py   -reducer /home/hduser/reducer.py -input /1342-0.txt -output /output1
+  507  jps
+  508  exit
+  509  conda
+  510  sudo apt install python-virtualenv
+  511  ls
+  512  /usr/local/hadoop/sbin/stop-all.sh
+  513  exit
+  514  htop
+  515  du -h
+  516  df -h
+  517  ls
+  518  history 
+  519  ls
+  520  history> a.txt

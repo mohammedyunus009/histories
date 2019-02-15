@@ -1,0 +1,63 @@
+    1  bashrc 
+    2  ~/.bashrc
+    3  sudo ~/.bashrc
+    4  sudo
+    5  sudo ~/.bashrc
+    6  sudo . ~/.bashrc
+    7  gedit .bashrc
+    8  ;l;;s;
+    9  sudo apt install vim,gparted
+   10  sudo apt install vim , gparted
+   11  sudo apt install vim gparted
+   12  sudo apt install vim gparted python-pip
+   13  vim
+   14  sudo apt install gcc g++ python3-pip
+   15  python3 -m pip install --user virtualenv
+   16  python -m pip install --user virtualenv
+   17  virtualenv venv
+   18  sudo apt-get install python-virtualenv
+   19  l
+   20  pwd
+   21  man grep
+   22  grep "sudo apt" a
+   23  cut -c1-6 b
+   24  cut -c23- b
+   25  grep 
+   26  grep "install" b
+   27  vi b
+   28  sudo sh b.sh
+   29  yes
+   30  sudo sh b.sh
+   31  sudo apt install python
+   32  lspci -v | less
+   33  grep -i --color memory /var/log/Xorg.0.log
+   34  grep -i memory /var/log/Xorg.0.log
+   35  apt
+   36  ls
+   37  sudo b.sh
+   38  sudo sh b.sh
+   39  ls
+   40  sudo apt install pyhton
+   41  sudo sh b.sh
+   42  pip
+   43  sudo apt-get install python-dev
+   44  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 python_qt4-gl libgle3 python-dev libssl-dev
+   45  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 libgle3 python-dev libssl-dev
+   46  ls /var/lib/apt/lists/lock
+   47  ls
+   48  ls /
+   49  ls /var/lib/apt/lists/lock
+   50  ls /var/lib/apt/lists
+   51  ls -l /var/lib/apt/lists
+   52  ls /var/lib/apt/lists/lock
+   53  sudo rm /var/lib/apt/lists/lock
+   54  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 libgle3 python-dev libssl-dev
+   55  ls /var/lib/dpkg/lock
+   56  sudo apt update
+   57  sudo apt
+   58  sudo dpkg --configure -a
+   59  ls /var/lib/apt/lists
+   60  ls /var/lib/apt/lists/lock
+   61  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 libgle3 python-dev libssl-dev
+   62  sudo apt install python-dev
+   63  history >his.txt

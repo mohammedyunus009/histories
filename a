@@ -1,0 +1,307 @@
+  15  sudo apt-get update
+   17  sudo apt-get dist-update
+   18  sudo apt-get dist-upgrade
+   19  sudo apt upgrade python
+   20  sudo apt upgrade python2.7
+   21  sudo apt upgrade python3.5
+   22  sudo apt install pip
+   23  sudo apt install python-pip
+   25  sudo pip install flask
+   26  sudo apt install mysql
+   27  sudo apt-get install mysql-server
+   38  sudo pip install virtualenv
+   46  sudo apt update vi
+   47  sudo apt upgrade vi
+   48  sudo apt upgrade vim
+   53  sudo apt upgrade vim
+   60  sudo apt install gparted
+   68  sudo apt install geany
+   75  sudo apt install default-jdk
+   81  sudo apt install input_calibrator
+   82  sudo apt install xinput_calibrator
+   84  sudo apt install xinput-calibrator
+   85  sudo xinput-calibrator
+   96  function watcher() {   toggle_tablet "enable";   update_timer;    sudo input-events -t $interval `xinput --list "$input" | head -n 1 | cut -d= -f2 | sed 's/\S*\[.*//g'`;    toggle_tablet "disable";   clear_timer; }
+  113  sudo apt install chrome
+  114  sudo apt install googlechrome
+  115  sudo apt install google-chrome
+  116  sudo apt install chromium
+  117  sudo apt install chromium-bsu
+  128  sudo pip install SQLAlchemy
+  134  sudo pip install SQLAlchemy
+  136  sudo pip install -r requirements.txt
+  137  sudo pip install py-bcrypt
+  139  sudo apt upgrade
+  140  sudo pip install py-bcrypt
+  143  sudo apt update g++
+  144  sudo apt upgrade g++
+  145  sudo apt upgrade gcc
+  146  sudo apt upgrade pip
+  147  sudo apt upgrade python-pip
+  148  sudo pip install py-bcrypt
+  150  sudo apt-get install python-pip python-dev build-essential
+  151  sudo pip install py-bcrypt
+  152  sudo pip install -r requirements.txt
+  153  sudo pip install evn
+  154  sudo pip install vevn
+  155  sudo pip install requests
+  156  sudo pip install bcrypt
+  160  sudo pip install bcrypt
+  161  sudo pip install wtforms
+  162  sudo pip install WTforms
+  163  sudo pip install SQLAlchemy
+  164  sudo pip install -r requirements.txt
+  167  sudo apt install libffi
+  171  sudo apt-get install build-essential libffi-dev python-dev
+  172  sudo yum install gcc libffi-devel python-devel
+  174  sudo apt install yum
+  180  sudo pip install py-bcrypt
+  189  sudo apt-get install git
+  222  sudo apt upgrade
+  228  sudo apt-get install libglut3-dev
+  229  sudo apt-get install freeglut3-dev
+  230  sudo apt install mesa-utils
+  237  sudo apt-get install binutils-gold
+  238  sudo apt-get install g++ cmake
+  239  sudo apt-get install libglew-dev
+  240  sudo apt-get install g++
+  241  sudo apt-get install mesa-common-dev
+  242  sudo apt-get install build-essential
+  243  sudo apt-get install libglew1.5-dev libglm-dev
+  261  sudo sh test.sh
+  297  sudo ufw status
+  298  sudo ufw active
+  299  sudo ufw enable
+  300  sudo apt upgrade
+  301  sudo apt update g++
+  302  sudo apt upgrade g++
+  353  sudo tar -cvf node.tar.gz --strip-components=1 -C ./node
+  358  sudo apt install rhino
+  365  sudo apt-get update
+  385  sudo pip install -r requirements.txt
+  386  sudo apt update pip
+  387  sudo apt upgrade pip
+  390  sudo add-apt-repository ppa:mc3man/trusty-media
+  391  sudo apt-get dist-upgrade -y
+  392  sudo pip install -r requirements.txt
+  394  sudo pip install sugartensor
+  395  sudo pip install pandas
+  396  sudo pip install librosa
+  398  sudo pip3 install --pre librosa
+  403  sudo apt-get install sox
+  427  sudo apt-get install python3-pip
+  432  sudo pip3 install Flask
+  450  sudo pip3 install -r requirements.txt
+  455  sudo pip3 install -Iv sugartensor==0.0.1.9
+  457  sudo pip3 install tensorflow==1.2.0
+  458  sudo pip3 install tensorflow
+  465  sudo pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.5.0-py2-none-any.whl
+  471  sudo pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.5.0-py2-none-any.whl
+  473  sudo apt-get install libcupti-dev
+  475  sudo pip3 install tensorflow
+  476  sudo pip install tensorflow
+  478  sudo pip3 install --upgrade
+  479  sudo pip3 --upgrade
+  480  sudo pip3 install --upgrade tensorflow
+  481  sudo pip3 install --upgrade  https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp34-cp34m-linux_x86_64.whl
+  496  sudo chmod 777 studio.sh
+  500  sudo apt-get install classicmenu-indicator
+  537  sudo apt-get install openjdk-7-jdk
+  538  sudo mv eclipse-java-luna-SR2-linux-gtk.tar.gz /opt
+  542  sudo mv eclipse-java-luna-SR2-linux-gtk.tar.gz /opt
+  544  sudo mv eclipse-inst-linux64.tar.gz /opt
+  551  sudo apt-get install tar
+  552  sudo apt-get update tar
+  553  sudo apt-get upgrade tar
+  557  sudo gedit /usr/share/applications/eclipse.desktop
+  558  sudo desktop-file-install /usr/share/applications/eclipse.desktop
+  560  sudo ln -s /opt/eclipse/eclipse
+  563  sudo desktop-file-install /usr/share/applications/eclipse.desktop
+  565  sudo chmod 777 eclipse-inst-linux64.tar.gz
+  570  sudo tar -xvf eclipse-inst-linux64.tar.gz
+  571  sudo gedit /usr/share/applications/eclipse.desktop
+  572  sudo desktop-file-install /usr/share/applications/eclipse.desktop
+  574  sudo apt install treee
+  575  sudo apt install tree
+  580  sudo ./eclipse-inst
+  586  sudo apt-get install openjdk-8-jdk
+  587  sudo apt-get upgrade openjdk-7-jdk
+  589  sudo apt-get update openjdk-7-jdk
+  590  sudo apt upgrade openjdk-7-jdk
+  592  sudo ./eclipse-inst
+  594  sudo ./eclipse-inst
+  595  sudo apt upgrade openjdk-8-jdk
+  596  sudo apt upgrade javac
+  597  sudo add-apt-repository ppa:openjdk-r/ppa
+  598  sudo apt-get openjdk-8-jdk
+  599  sudo apt-get install openjdk-8-jdk
+  600  sudo apt-get update
+  601  sudo apt-get install openjdk-8-jdk
+  602  sudo ./eclipse-inst
+  605  sudo update-alternatives --config java
+  607  sudo update-alternatives --config java
+  609  sudo update-alternatives --config java
+  611  sudo ./eclipse-inst
+  636  sudo apt-get install thop
+  637  sudo apt-get install htop
+  687  sudo pip3 install -r requirements.txt
+  693  sudo pip3 install -r requirements.txt
+  694  sudo apt-get update gcc
+  695  sudo apt-get upgrade gcc
+  696  sudo apt-get upgrade g++
+  697  sudo apt-get update
+  698  sudo apt-get upgrade gcc
+  700  sudo apt-get upgrade g++
+  701  sudo pip3 install -r requirements.txt
+  702  sudo init 6
+  704  sudo apt upgrade
+  705  sudo apt-get dist-upgrade
+  765  sudo ufw status
+  814  sudo mkdir /opt/gradle
+  817  sudo unzip -d /opt/gradle gradle-3.4.1-bin.zip
+  820  sudo unzip -d /opt/gradle gradle-3.4.1-bin.zip
+ 1175  sudo pip3 install pyaudio
+ 1176  sudo apt-get install python-dev
+ 1177  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 python-qt4-gl libgle3 python-dev libssl-dev
+ 1181  sudo apt install python3-dev
+ 1183  sudo easy_install greenlet
+ 1184  sudo easy_install gevent
+ 1186  sudo pip3 install pyaudio
+ 1187  sudo apt-get install python-dateutil python-docutils python-feedparser python-gdata python-jinja2 python-ldap python-libxslt1 python-lxml python-mako python-mock python-openid python-psycopg2 python-psutil python-pybabel python-pychart python-pydot python-pyparsing python-reportlab python-simplejson python-tz python-unittest2 python-vatnumber python-vobject python-webdav python-werkzeug python-xlwt python-yaml python-zsi
+ 1188  sudo apt update pip3
+ 1189  sudo apt upgrade pip3
+ 1190  sudo apt-get upgrade pip3
+ 1191  sudo apt-get upgrade pip
+ 1192  sudo apt-get upgrade python-pip
+ 1193  sudo apt-get upgrade python3-pip
+ 1195  sudo apt upgrde gcc
+ 1196  sudo apt update gcc
+ 1197  sudo apt upgrade gcc
+ 1199  sudo apt install python3-pyaudio
+ 1203  sudo apt install python3-gTTs
+ 1204  sudo apt install python3-gtts
+ 1205  sudo pip3 install gTTS
+ 1206  sudo pip3 install SpeechRecognition
+ 1207  sudo pip3 install pygame
+ 1208  sudo apt install python-pygame
+ 1209  sudo pip3 install pygame
+ 1219  sudo pip3 install virtualenv 
+ 1234  sudo pip3 install requests
+ 1235  sudo pip3 install lxml
+ 1236  sudo pip3 install cssselect
+ 1239  sudo pip3 install gTTs
+ 1249  sudo pip3 install gtts
+ 1260  sudo pip3 upgrade gtts
+ 1261  sudo pip3 update gtts
+ 1262  sudo pip3 install gtts
+ 1277  sudo pip3 install _gTTs
+ 1278  sudo pip3 install gTTs
+ 1279  sudo east_install --upgrade pip3
+ 1280  sudo easy_install --upgrade pip3
+ 1281  sudo easy_install --upgrade pip
+ 1283  sudo pip3 install gTTs
+ 1291  sudo pip3 install request
+ 1293  sudo pip3 install requests
+ 1294  sudo pip3 install --upgrade requests
+ 1296  sudo pip3 install pygame
+ 1298  sudo pip3 install chatterbot
+ 1300  sudo install pip3 PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1301  sudo install pip3 pyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1302  sudo pip3 install PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1303  sudo pip install --upgrade pyaudio
+ 1304  sudo pip3 --upgrade pyaudio
+ 1305  sudo pip3 install --upgrade pyaudio
+ 1306  sudo apt-get install portaudio19-dev
+ 1307  sudo pip3 install --upgrade pyaudio
+ 1318  sudo mysql -u root
+ 1354  sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
+ 1356  sudo modprobe kvm_intel
+ 1357  sudo /usr/sbin/kvm-ok
+ 1366  sudo apt install ./divx-converter-2.0.1.deb
+ 1368  sudo dpkg -i divx-converter-2.0.1.deb|sudo apt-get install -f
+ 1373  sudo dpkg -r
+ 1374  sudo apt update
+ 1375  sudo apt upgrade gcc
+ 1441  sudo apt install compiz
+ 1476  sudo pip3 install -r requirements.txt
+ 1481  sudo pip3 install -r requirements.txt
+ 1504  sudo pip3 install -r requirements.txt
+ 1514  sudo apt install ntfs-3g
+ 1515  sudo apt install ntfsprogs
+ 1519  sudo rm -rf
+ 1521  sudo rm -rf 7z1514.exe
+ 1525  sudo sync
+ 1526  sudo rm -rf 7z1514.exe
+ 1533  sudo rm -fr 7z1514.exe
+ 1536  sudo rm -fr 7z1514.exe
+ 1549  sudo ufw status
+ 1550  sudo ufw enforce
+ 1551  sudo ufw reload
+ 1558  sudo apt install hp-scan
+ 1559  sudo apt install hpscan
+ 1560  sudo apt install hpprint
+ 1561  sudo apt install hp
+ 1562  sudo apt install hp-setup
+ 1564  sudo apt install hplip
+ 1629  sudo ufw status
+ 1630  sudo apt upgrade ufw
+ 1642  sudo pip install views
+ 1643  sudo pip install url
+ 1644  sudo pip install include
+ 1645  sudo pip3 install include
+ 1646  sudo pip3 install url
+ 1647  sudo pip3 install views
+ 1785  sudo apt 
+ 1786  sudo apt install gtk-recordmydesktop
+ 1826  sudo apt install python3-venv
+ 1827  sudo apt-get install python3-venv
+ 1828  sudo apt update
+ 1829  sudo apt-get install python3-venv
+ 1833  sudo pip3 install -r requirements.txt
+ 1836  sudo pip install -r requirements.txt
+ 1838  sudo pip install numpy
+ 1846  sudo pip install librosa
+ 1849  sudo pip install -r requirements
+ 1851  sudo pip install -r requirements.txt
+ 1855  sudo pip uninstall joblib
+ 1856  sudo pip install joblib
+ 1872  sudo pip3 install theano
+ 1875  sudo pip3 install tk
+ 1876  sudo apt install  python3-tk
+ 1878  sudo pip3 install urllib2
+ 1879  sudo pip install urllib2
+ 1880  sudo apt install python3-urllib3
+ 1881  sudo apt install python3-urllib2
+ 1941  sudo apt-get install clang libicu-dev
+ 1952  sudo apt install samba samba-common system-config-samba python-glade2 gksu
+ 1954  sudo samba
+ 1968  sudo pip install hat
+ 1969  sudo pip install cPickle
+ 1970  sudo pip install Pickle
+ 1971  sudo pip install scipy
+ 1972  sudo pip install matplotlib
+ 1973  sudo pip install librosa
+ 1974  sudo pip install wavio
+ 1975  sudo pip install csv
+ 1979  sudo pip install wavio
+ 1985  sudo cp -r /usr/local/lib/python3.4/dist-packages/wavio-0.0.3-py3.4.egg-info /usr/local/lib/python2.7/dist-packages
+ 1986  sudo cp -r /usr/local/lib/python3.4/dist-packages/wavio.py /usr/local/lib/python2.7/dist-packages
+ 1987  sudo pip install wavio
+ 1994  sudo -E pip install wavio
+ 1995  sudo pip3 remove wavio
+ 1996  sudo pip3 uninstall wavio
+ 1997  sudo pip install wavio
+ 1999  sudo pip uninstall wavio
+ 2000  sudo pip install wavio
+ 2004  sudo pip install scipy
+ 2005  sudo pip3 uninstall scipy
+ 2006  sudo pip install scipy
+ 2008  sudo pip install numpy
+ 2009  sudo pip3 unistall numpy
+ 2010  sudo pip3 uninstall numpy
+ 2011  sudo pip install numpy
+ 2013  sudo pip install pillow
+ 2016  sudo python -m pip install scipy
+ 2017  sudo pip -m install scipy
+ 2018  sudo pip install scipy
+ 2019  sudo pip3 uninstall scipy

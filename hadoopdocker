@@ -1,0 +1,171 @@
+    1  vi a.sh
+    2  sudo bash a.sh
+    3  sudo apt-get install oracle-java8-installer
+    4  sudo apt update
+    5  sudo apt-get install oracle-java8-installer
+    6  sudo apt install docker
+    7  sudo apt install docker.io
+    8  sudo usermod -a -G docker $USER
+    9  docker pull cloudera/quickstart:latest
+   10  exit
+   11  htop
+   12  sudo apt install htop
+   13  htop
+   14  exit
+   15  docker pull cloudera/quickstart:latest
+   16  exit
+   17  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   18  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:80 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   19  htop
+   20  wget 0.0.0.0:8888
+   21  ls
+   22  vi index.html
+   23  ls
+   24  htop
+   25  ls /usr/local/denyhosts-remove
+   26  ls /usr/local
+   27  sudo ls /usr/local
+   28  sudo ls /usr/local/sbin
+   29  ls -a /usr/local/sbin
+   30  sudo vi /usr/local/denyhosts-remove
+   31  iptables -L -n
+   32  sudo iptables -L -n
+   33  fail2ban-client status
+   34  sudo apt install failban-client
+   35  sudo apt install fail2ban-client
+   36  failban-client status
+   37  fail2ban-client status
+   38  sudo apt install fail2ban
+   39  fail2ban-client status
+   40  sudo fail2ban-client status
+   41  iptables -L -n --line-numbers
+   42  sudo iptables -L -n --line-numbers
+   43  sudo fail2ban-client status
+   44  sudo fail2ban-client list
+   45  man fail2ban-client
+   46  sudo fail2ban-client set ssh unbanip 2402:3a80:d2b:5a93:822:9df9:c34f:9f52
+   47  htop
+   48  exit
+   49  docker images
+   50  htop
+   51  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   52  exit
+   53  htop
+   54  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   55  htop
+   56  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   57  exit
+   58  ls /bin
+   59  df -h
+   60  htop
+   61  cd data
+   62  ls
+   63  gsutil cp -p gs://mohammed_yunus/demo.jar .
+   64  rm demo.jar
+   65  gsutil cp -p gs://mohammed_yunus/demo.jar .
+   66  gsutil cp -p gs://mohammed_yunus/w.csv .
+   67  hadoop fs -put w.csv w.csv
+   68  ls
+   69  mkdir data
+   70  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   71  sudo shutdown now
+   72  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   73  htop
+   74  cd data
+   75  gsutil cp -p gs://mohammed_yunus/demo.jar .
+   76  htop
+   77  sudo shutdown now
+   78  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   79  sudo shutdown now
+   80  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   81  sudo shutdown now
+   82  htop
+   83  gsutil cp -p gs://mohammed_yunus/send.jar .
+   84  rm send.jar
+   85  gsutil cp -p gs://mohammed_yunus/send.jar .
+   86  htop
+   87  exit
+   88  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   89  sudo shutdown now
+   90  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+   91  cd data1
+   92  cd data
+   93  ls
+   94  rm *.jar
+   95  ls
+   96  gsutil cp -p gs://mohammed_yunus/send.jar .
+   97  gsutil cp -p gs://mohammed_yunus/demo.jar .
+   98  ls
+   99  vi yu
+  100  ls
+  101  rm yu
+  102  gsutil cp -p gs://mohammed_yunus/*.csv .
+  103  ls
+  104  htop
+  105  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  106  exit
+  107  exit
+  108  cd data
+  109  ls
+  110  vi his.txt
+  111  exit
+  112  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  113  sudo shutdown now
+  114  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  115  sudo shutdown now
+  116  htop
+  117  cd data
+  118  wget http://www.gutenberg.org/cache/epub/20417/pg20417.txt
+  119  ls
+  120  vi pg20417.txt
+  121  htop
+  122  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  123  sudo shutdown now
+  124  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  125  sudo shutdown now
+  126  htop
+  127  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  128  htop
+  129  wget http://www.java2s.com/Code/JarDownload/hadoop-streaming/hadoop-streaming.jar.zip
+  130  ls
+  131  unzip
+  132  sudo apt install unzip
+  133  ls
+  134  cd data
+  135  ls
+  136  cp ../hadoop-streaming.jar.zip .
+  137  unzip hadoop-streaming.jar.zip -d .
+  138  ls
+  139  rm hadoop-streaming.jar.zip
+  140  ls
+  141  htop
+  142  ls
+  143  vi w.csv
+  144  cat w.csv
+  145  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  146  sudo shutdown now
+  147  exit
+  148  wget 35.200.166.219 
+  149  35.200.166.219 
+  150  wget https://excellmedia.dl.sourceforge.net/project/boot-repair-cd/boot-repair-disk-64bit.iso
+  151  screen
+  152  screen -S yunus
+  153  exit
+  154  screen -ls
+  155  exit
+  156  jobs
+  157  kill %1
+  158  exit
+  159  screnn -r yunuss
+  160  screen -r yunus
+  161  exit
+  162  screen -r yunus
+  163  wget https://excellmedia.dl.sourceforge.net/project/boot-repair-cd/boot-repair-disk-64bit.iso
+  164  ls
+  165  sudo shutdown now
+  166  ls
+  167  exit
+  168  docker run --hostname=quickstart.cloudera -v ~/data:/data1 --privileged=true -t -i -p 8888:8888 -p 80:80 cloudera/quickstart /usr/bin/docker-quickstart
+  169  htop
+  170  history
+

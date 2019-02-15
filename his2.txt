@@ -1,0 +1,1000 @@
+ 1021  git show
+ 1022  git add a.java
+ 1023  ls
+ 1024  git status
+ 1025  history |grep "push
+ 1026  "
+ 1027  history |grep "push"
+ 1028  git push
+ 1029  git commit -m "first commit"
+ 1030  git push
+ 1031  git diff
+ 1032  git status
+ 1033  git commit -m "first commit"
+ 1034  git config --global user.email "mohammedyunusfarooq@gmail.com"
+ 1035  git config --global user.name "Your Name"
+ 1036  git config --global user.name "farooqbhai"
+ 1037  git commit -m "first commit"
+ 1038  git push
+ 1039  git status
+ 1040  ls
+ 1041  vi b.java
+ 1042  git pull
+ 1043  git branch new_feature
+ 1044  ls
+ 1045  git status
+ 1046  git add -A
+ 1047  ls
+ 1048  git commit -m "second commit"
+ 1049  git push
+ 1050  ls
+ 1051  git status
+ 1052  ls
+ 1053  vi br.java
+ 1054  ls
+ 1055  git branch new_fea
+ 1056  git status
+ 1057  git add br.java
+ 1058  ls
+ 1059  git status
+ 1060  git commit -m "new branch"
+ 1061  git push
+ 1062  git branch
+ 1063  git checkout new_feature
+ 1064  vi br1.java
+ 1065  git add br1.java
+ 1066  git push orgin new_feature
+ 1067  git push origin new_feature
+ 1068  git reset br1.java
+ 1069  ls
+ 1070  git status
+ 1071  git add br1.java
+ 1072  git commit -m "add branch"
+ 1073  git push
+ 1074  git checkout -b new_1
+ 1075  git branch
+ 1076  git pull
+ 1077  git checkout master
+ 1078  git merge new_newfeature
+ 1079  git merge new_feature
+ 1080  htop
+ 1081  ls
+ 1082  cd test
+ 1083  ls
+ 1084  cd trailer
+ 1085  git status
+ 1086  ls
+ 1087  htop
+ 1088  cd test2
+ 1089  cd ../
+ 1090  cd test2
+ 1091  cd PharmaceuticalSalesManagement
+ 1092  ls
+ 1093  Pharmaceutical-Sales-Management-master
+ 1094  cd Pharmaceutical-Sales-Management-master
+ 1095  ls
+ 1096  cd PharmaceuticalSalesManagement
+ 1097  grep -nr 'Faiaz*' .
+ 1098  grep -nr 'java*' .
+ 1099  grep -nr 'Pritam*' .
+ 1100  grep -nr 'Mahir*' .
+ 1101  grep -nr 'Musfiqur*' .
+ 1102  grep -nr 'Rahman*' .
+ 1103  ping google.com
+ 1104  cd ../
+ 1105  ls
+ 1106  cd ../
+ 1107  ls
+ 1108  cd test
+ 1109  ls
+ 1110  git clone https://github.com/peacefuljoker/Web_Application_for_Stock_Market_Data_Reporting.git
+ 1111  ls
+ 1112  cd Web_Application_for_Stock_Market_Data_Reporting
+ 1113  ls
+ 1114  ls -a
+ 1115  ls
+ 1116  git add -A
+ 1117  git commit -m "final commit"
+ 1118  git push
+ 1119  git status
+ 1120  ls
+ 1121  ping google.com
+ 1122  cd ../
+ 1123  ls
+ 1124  git clone https://github.com/peacefuljoker/Stock_Market_Data_Reporting
+ 1125  ls 
+ 1126  cd Stock_Market_Data_Reporting
+ 1127  ls
+ 1128  git add -A
+ 1129  git commit -m "final commit"
+ 1130  git push
+ 1131  vi index.php
+ 1132  git status
+ 1133  git add index.php
+ 1134  git commit -m "final1 commit"
+ 1135  git push
+ 1136  vi index.php
+ 1137  git status
+ 1138  git add -A
+ 1139  git -m commit "finals commit'
+ 1140  "
+ 1141  git -m commit "finals commit"
+ 1142  git commit -m "finals commit"
+ 1143  git push
+ 1144  ls
+ 1145  cd ../
+ 1146  cd older
+ 1147  ls
+ 1148  git clone https://github.com/peacefuljoker/Warehouse-and-Item-Location-Management
+ 1149  ls
+ 1150  cd Warehouse-and-Item-Location-Management
+ 1151  ls
+ 1152  git add -A
+ 1153  git commit -m "final commit"
+ 1154  git push
+ 1155  htop
+ 1156  cd .//
+ 1157  cd ~
+ 1158  ls
+ 1159  htop
+ 1160  easy_install
+ 1161  ping google.com
+ 1162  cd LEGACY
+ 1163  ls
+ 1164  cd test
+ 1165  ls
+ 1166  mkdir 1
+ 1167  cd 1
+ 1168  cd ../
+ 1169  hit clone https://github.com/mohammedyunus009/SparkleAI.git
+ 1170  git clone https://github.com/mohammedyunus009/SparkleAI.git
+ 1171  cd SparkleAI
+ 1172  ls
+ 1173  python3 spark.py
+ 1174  pip3 install pyaudio
+ 1175  sudo pip3 install pyaudio
+ 1176  sudo apt-get install python-dev
+ 1177  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 python-qt4-gl libgle3 python-dev libssl-dev
+ 1178  gcc
+ 1179  g++
+ 1180  htop
+ 1181  sudo apt install python3-dev
+ 1182  pip3 install pyaudio
+ 1183  sudo easy_install greenlet
+ 1184  sudo easy_install gevent
+ 1185  pip3 install pyaudio
+ 1186  sudo pip3 install pyaudio
+ 1187  sudo apt-get install python-dateutil python-docutils python-feedparser python-gdata python-jinja2 python-ldap python-libxslt1 python-lxml python-mako python-mock python-openid python-psycopg2 python-psutil python-pybabel python-pychart python-pydot python-pyparsing python-reportlab python-simplejson python-tz python-unittest2 python-vatnumber python-vobject python-webdav python-werkzeug python-xlwt python-yaml python-zsi
+ 1188  sudo apt update pip3
+ 1189  sudo apt upgrade pip3
+ 1190  sudo apt-get upgrade pip3
+ 1191  sudo apt-get upgrade pip
+ 1192  sudo apt-get upgrade python-pip
+ 1193  sudo apt-get upgrade python3-pip
+ 1194  pip3 install pyaudio
+ 1195  sudo apt upgrde gcc
+ 1196  sudo apt update gcc
+ 1197  sudo apt upgrade gcc
+ 1198  pip3 install pyaudio
+ 1199  sudo apt install python3-pyaudio
+ 1200  pip3 install pyaudio
+ 1201  pip3 install gTTS
+ 1202  pip3 install python3-gTTs
+ 1203  sudo apt install python3-gTTs
+ 1204  sudo apt install python3-gtts
+ 1205  sudo pip3 install gTTS
+ 1206  sudo pip3 install SpeechRecognition
+ 1207  sudo pip3 install pygame
+ 1208  sudo apt install python-pygame
+ 1209  sudo pip3 install pygame
+ 1210  ls
+ 1211  cd LEGACY
+ 1212  ls
+ 1213  git clone https://github.com/LetsPlayNow/Speech_AI.git
+ 1214  cd Speech_AI
+ 1215  ls
+ 1216  python3 speech_ai.py
+ 1217  source activate speech_ai
+ 1218  pip3 install venv
+ 1219  sudo pip3 install virtualenv 
+ 1220  source activate speech_ai
+ 1221  ld
+ 1222  poqef
+ 1223  conda
+ 1224  virtualenv
+ 1225  pwd
+ 1226  virtualenv ~/virtualenvironment/my_new_app
+ 1227  virtualenv /home/ruksana/LEGACY/Speech_AI
+ 1228  ls
+ 1229  source activate
+ 1230  cd /
+ 1231  cd /home/ruksana/LEGACY/Speech_AI
+ 1232  python3 speech.py
+ 1233  python3 speech_ai.py
+ 1234  sudo pip3 install requests
+ 1235  sudo pip3 install lxml
+ 1236  sudo pip3 install cssselect
+ 1237  python3 speech.py
+ 1238  python3 speech_ai.py
+ 1239  sudo pip3 install gTTs
+ 1240  python3 speech_ai.py
+ 1241  cd bin
+ 1242  source activate
+ 1243  ls
+ 1244  cd ../
+ 1245  python3 
+ 1246  python3 speech_ai.py
+ 1247  ls
+ 1248  python3 speech_ai.py
+ 1249  sudo pip3 install gtts
+ 1250  ls
+ 1251  cd LEGACY
+ 1252  LS
+ 1253  ls
+ 1254  cd Speech_AI
+ 1255  ls
+ 1256  python speech_ai
+ 1257  python speech_ai.[y
+ 1258  python speech_ai.py
+ 1259  python3 speech_ai.py
+ 1260  sudo pip3 upgrade gtts
+ 1261  sudo pip3 update gtts
+ 1262  sudo pip3 install gtts
+ 1263  python3 speech_ai.py
+ 1264  cd bin
+ 1265  source activate 
+ 1266  cd ../
+ 1267  ls
+ 1268  cd LEGACY/Speech_Ai
+ 1269  cd LEGACY/Speech_ai
+ 1270  cd LEGACY/Speech_Ai
+ 1271  cd LEGACY
+ 1272  ls
+ 1273  cd Speech_AI
+ 1274  la
+ 1275  source bin/activate
+ 1276  python3 speech_ai.py
+ 1277  sudo pip3 install _gTTs
+ 1278  sudo pip3 install gTTs
+ 1279  sudo east_install --upgrade pip3
+ 1280  sudo easy_install --upgrade pip3
+ 1281  sudo easy_install --upgrade pip
+ 1282  python3 speech_ai.py
+ 1283  sudo pip3 install gTTs
+ 1284  python3 speech_ai.py
+ 1285  cd LEGACY
+ 1286  ls
+ 1287  cd Speech_AI
+ 1288  ls
+ 1289  python speech_ai.py
+ 1290  python3 speech_ai.py
+ 1291  sudo pip3 install request
+ 1292  python3 speech_ai.py
+ 1293  sudo pip3 install requests
+ 1294  sudo pip3 install --upgrade requests
+ 1295  python3 speech_ai.py
+ 1296  sudo pip3 install pygame
+ 1297  python3 speech_ai.py
+ 1298  sudo pip3 install chatterbot
+ 1299  python3 speech_ai.py
+ 1300  sudo install pip3 PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1301  sudo install pip3 pyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1302  sudo pip3 install PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+ 1303  sudo pip install --upgrade pyaudio
+ 1304  sudo pip3 --upgrade pyaudio
+ 1305  sudo pip3 install --upgrade pyaudio
+ 1306  sudo apt-get install portaudio19-dev
+ 1307  sudo pip3 install --upgrade pyaudio
+ 1308  python3 speech_ai.py
+ 1309  history|grep "git"
+ 1310  htop
+ 1311  ls
+ 1312  htop
+ 1313  less sms.xml
+ 1314  gedit sms.xml
+ 1315  mysql
+ 1316  mysql -uroot
+ 1317  mysql -u root
+ 1318  sudo mysql -u root
+ 1319  mysql -u root " "
+ 1320  mysql -u root ""
+ 1321  mysql
+ 1322  mysql -u root -p
+ 1323  htop
+ 1324  ping google.com
+ 1325  ls
+ 1326  less speech_ai.py
+ 1327  cd /home/ruksana/LEGACY
+ 1328  ls
+ 1329  cd Speech_AI
+ 1330  ls
+ 1331  less speech_ai.py
+ 1332  vi his1.txt
+ 1333  history >his1.txt
+ 1334  ls -a
+ 1335  less .git
+ 1336  vi .git
+ 1337  cd LEGACY/Speech_Ai
+ 1338  cd LEGACY/Speech_AI
+ 1339  ls
+ 1340  python speech_ai.py
+ 1341  python3 speech_ai.py
+ 1342  cd corpus_parser
+ 1343  ls
+ 1344  vi war_and_peace.txt
+ 1345  ping google.com
+ 1346  htop
+ 1347  cd /home/ruksana/AndroidStudioProjects/Firsthelloworld/app/src/main/res
+ 1348  vi ic_launcher_background.xml
+ 1349  ls
+ 1350  cd drawable
+ 1351  ls
+ 1352  kvm
+ 1353  kvm-ok
+ 1354  sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
+ 1355  kvm-ok
+ 1356  sudo modprobe kvm_intel
+ 1357  sudo /usr/sbin/kvm-ok
+ 1358  lscpu
+ 1359  cd ~
+ 1360  htop
+ 1361  cd /home/ruksana/Documents/sdk_install/android-studio/bin
+ 1362  ./studio.sh
+ 1363  cd Downloads
+ 1364  cd ~
+ 1365  cd Downloads
+ 1366  sudo apt install ./divx-converter-2.0.1.deb
+ 1367  divx
+ 1368  sudo dpkg -i divx-converter-2.0.1.deb|sudo apt-get install -f
+ 1369  dpkg
+ 1370  dpkg -dep
+ 1371  dpkg -d
+ 1372  dpkg -r
+ 1373  sudo dpkg -r
+ 1374  sudo apt update
+ 1375  sudo apt upgrade gcc
+ 1376  cd ../pharSalesMng
+ 1377  cd ../
+ 1378  history |grep "grep"
+ 1379  cd /pharSalesMng
+ 1380  cd pharSalesMng
+ 1381  grep -nr php
+ 1382  grep -nr author
+ 1383  grep -nr Rahman
+ 1384  grep -nr Musfiqur
+ 1385  grep -nr Mahir
+ 1386  grep -nr Pritam
+ 1387  grep -nr Faiaz
+ 1388  grep -nr sanim
+ 1389  grep -nr isd
+ 1390  grep -nr lab
+ 1391  grep -nr select
+ 1392  man grep
+ 1393  grep -nd select
+ 1394  grep -nr select
+ 1395  grep -nr Select
+ 1396  ls
+ 1397  cd ../
+ 1398  cd test
+ 1399  git clone file:///home/ruksana/pharSalesMng 
+ 1400  git clone https://github.com/peacefuljoker/backend_warehouse.git
+ 1401  git status
+ 1402  ls
+ 1403  cd backend_warehouse
+ 1404  git status
+ 1405  git add -A
+ 1406  git status
+ 1407  git commit
+ 1408  git comit
+ 1409  history |grep "git"
+ 1410  git commit -m "final commit"
+ 1411  git push
+ 1412  ping https://xcelerator.ninja/
+ 1413  ping xcelerator.ninja/
+ 1414  ping xcelerator.ninja
+ 1415  ls
+ 1416  cd warehouse_management
+ 1417  ls
+ 1418  htop
+ 1419  cd Desktop/flask
+ 1420  ./a.out
+ 1421  cd /
+ 1422  exit
+ 1423  gcc ab.c
+ 1424  ./a.out
+ 1425  gcc ab.c
+ 1426  tree
+ 1427  cd ../
+ 1428  cd ~
+ 1429  clear
+ 1430  vi ab.c
+ 1431  rm ab.c
+ 1432  cd /home/ruksana/test/backend_warehouse/warehouse_management
+ 1433  ls
+ 1434  grep -nr select3
+ 1435  grep -nr select
+ 1436  grep -nr Select
+ 1437  cd /home/ruksana/Documents/sdk_install/android-studio
+ 1438  ./studio.sh
+ 1439  cd bin
+ 1440  ./studio.sh
+ 1441  sudo apt install compiz
+ 1442  ls
+ 1443  ping projects.students3k.com/projects/ieee-base-papers
+ 1444  ping projects.students3k.com
+ 1445  ping 97.74.231.65
+ 1446  history |grep "version"
+ 1447  pip -version chatterbot
+ 1448  pip info chatterbot
+ 1449  pip show chatterbot
+ 1450  ls
+ 1451  cd test
+ 1452  ls
+ 1453  mkdir chatbot
+ 1454  ls
+ 1455  git clone https://github.com/gunthercox/ChatterBot.git
+ 1456  ls -ltr
+ 1457  cdChatterBot
+ 1458  cd ChatterBot
+ 1459  history |grep "requirements"
+ 1460  history |his.txt
+ 1461  history >his.txt
+ 1462  less his.txt
+ 1463  ls
+ 1464  source activate
+ 1465  virtualenv venv
+ 1466  source venv/bin/activate
+ 1467  pip3 install -r requirements.txt
+ 1468  ping google.com
+ 1469  ping 0.0.0.0:8000
+ 1470  ping 0.0.0.0
+ 1471  cd test/ChatterBot
+ 1472  virtualenv venv
+ 1473  source venv/bin/activate
+ 1474  ls
+ 1475  pip3 install -r requirements.txt
+ 1476  sudo pip3 install -r requirements.txt
+ 1477  pwd
+ 1478  cd examples/django_app
+ 1479  ls
+ 1480  python3 manage.py
+ 1481  sudo pip3 install -r requirements.txt
+ 1482  python3 manage.py
+ 1483  python3 manage.py help
+ 1484  python3 manage.py help train
+ 1485  python3 manage.py help test
+ 1486  python3 manage.py test
+ 1487  ls
+ 1488  python3 manage.py test
+ 1489  grep -nr english
+ 1490  grep -nr english_bot
+ 1491  ping google.com
+ 1492  grep -nr ChatBot
+ 1493  ls
+ 1494  python3 manage.py runserver 0.0.0.0:8000
+ 1495  python3 manage.py migrate
+ 1496  python3 manage.py runserver 0.0.0.0:8000
+ 1497  python3 manage.py train
+ 1498  cd ../
+ 1499  git clone https://github.com/chamkank/flask-chatterbot.git
+ 1500  ls
+ 1501  ls -ltr
+ 1502  cd flask-chatterbot
+ 1503  ls
+ 1504  sudo pip3 install -r requirements.txt
+ 1505  python3 app.py
+ 1506  file test
+ 1507  cd /media/ruksana/HD-B1/new_computer/Untitled Folder 2/Users/Rukshana/Downloads
+ 1508  cd /media/ruksana/HD-B1/new_computer
+ 1509  cd /media/ruksana/HD-B1/new_computer/Untitled/Users/Rukshana/Downloads
+ 1510  rm [kat.cr]mayuri.2015.telugu䥓720p.hdtvrip.x264.aac.1gb.xclusive.torrent
+ 1511  file 7z1514.exe
+ 1512  find ./ -name 7z1514.exe
+ 1513  rm 7z1514.exe
+ 1514  sudo apt install ntfs-3g
+ 1515  sudo apt install ntfsprogs
+ 1516  man fsck
+ 1517  ls
+ 1518  chkdsk
+ 1519  sudo rm -rf
+ 1520  ls
+ 1521  sudo rm -rf 7z1514.exe
+ 1522  man ntfs-3g
+ 1523  man ntfs
+ 1524  ntfs
+ 1525  sudo sync
+ 1526  sudo rm -rf 7z1514.exe
+ 1527  man sync
+ 1528  ls
+ 1529  ls -l
+ 1530  ls -l 7z1514.exe
+ 1531  file 7z1514.exe
+ 1532  man file
+ 1533  sudo rm -fr 7z1514.exe
+ 1534  chmod 000 7z1514.exe
+ 1535  chmod 777 7z1514.exe
+ 1536  sudo rm -fr 7z1514.exe
+ 1537  chown 7z1514.exe
+ 1538  man chown
+ 1539  cd /media/ruksana/HD-B1/lapfull/media/KHALEEL-DESIGN
+ 1540  less mobile-backup.rar
+ 1541  vi mobile-backup.rar
+ 1542  htop
+ 1543  divx
+ 1544  cd /home/ruksana/Documents/Projects/DatbaseExample
+ 1545  vi master.jar
+ 1546  vi masterjar.jar
+ 1547  cd ~
+ 1548  mysql -uroot -p
+ 1549  sudo ufw status
+ 1550  sudo ufw enforce
+ 1551  sudo ufw reload
+ 1552  cd Download/eclipse
+ 1553  cd Downloads/eclipse
+ 1554  ./eclipse
+ 1555  cd Downloads/eclipse
+ 1556  ./eclipse
+ 1557  mysql -uroot -p
+ 1558  sudo apt install hp-scan
+ 1559  sudo apt install hpscan
+ 1560  sudo apt install hpprint
+ 1561  sudo apt install hp
+ 1562  sudo apt install hp-setup
+ 1563  hp
+ 1564  sudo apt install hplip
+ 1565  hp -scan
+ 1566  hp-scan
+ 1567  htop
+ 1568  cd Downloads/eclipse
+ 1569  ./eclipse
+ 1570  vi a.c
+ 1571  geany a.c
+ 1572  vi a.c
+ 1573  gcc a.cc
+ 1574  gcc a.c
+ 1575  ./a.out
+ 1576  gcc a.c
+ 1577  ./a.out
+ 1578  gcc a.c
+ 1579  ./a.out
+ 1580  gcc a.c
+ 1581  ./a.out
+ 1582  gcc a.c
+ 1583  ./a.out
+ 1584  gcc a.c
+ 1585  ./a.out
+ 1586  ./Downloads/eclipse/eclipse
+ 1587  cd softwares/pycharm/bin
+ 1588  ls
+ 1589  ./pycharm.sh
+ 1590  cd ../
+ 1591  ls
+ 1592  cd ../
+ 1593  ls
+ 1594  test -e ~/.local/share/applications/defaults.list -a 1$(grep -sc \[Default\ Applications\] ~/.local/share/applications/defaults.list) != 10  || echo "[Default Applications]" >> ~/.local/share/applications/defaults.list; grep gedit.desktop /usr/share/applications/defaults.list | sed "s/gedit\.desktop/sublime.desktop/g" >> ~/.local/share/applications/defaults.list
+ 1595  ./sublime_text.desktop
+ 1596  python3 sublime.py
+ 1597  ./sublime_text
+ 1598  less ieee_papers _to_download.txt
+ 1599  less ieee_papers_to_download.txt
+ 1600  gedit ieee_papers_to_download.txt
+ 1601  less ieee_papers_to_download.txt
+ 1602  ./Downloads/eclipse/eclipse
+ 1603  cd test
+ 1604  ls
+ 1605  mkdir django
+ 1606  cd django
+ 1607  ls
+ 1608  django-admin
+ 1609  django-admin startproject
+ 1610  django-admin startproject testing
+ 1611  ls
+ 1612  cd testing
+ 1613  tree
+ 1614  pwd
+ 1615  cd testing
+ 1616  ls
+ 1617  cd ../
+ 1618  ls
+ 1619  python3 manage.py
+ 1620  python3 manage.py runserver
+ 1621  ls
+ 1622  python3 manage.py startapp myprofile
+ 1623  ls
+ 1624  tree
+ 1625  ls
+ 1626  apt
+ 1627  snap
+ 1628  htop
+ 1629  sudo ufw status
+ 1630  sudo apt upgrade ufw
+ 1631  cd softwares
+ 1632  ls
+ 1633  cd pycharm
+ 1634  ls
+ 1635  cd bin
+ 1636  ls
+ 1637  ./pycharm.sh
+ 1638  htop
+ 1639  ./softwares/eclipse/eclipse
+ 1640  htop
+ 1641  ./softwares/pycharm/bin/pycharm.sh
+ 1642  sudo pip install views
+ 1643  sudo pip install url
+ 1644  sudo pip install include
+ 1645  sudo pip3 install include
+ 1646  sudo pip3 install url
+ 1647  sudo pip3 install views
+ 1648  python3 -version
+ 1649  python3 --version
+ 1650  cd /usr/bin
+ 1651  ls
+ 1652  ls |grep "python"
+ 1653  ls -ltr 
+ 1654  ls -ltr |grep "python"
+ 1655  cd python2.7
+ 1656  ls -l|grep "python"
+ 1657  cd ../
+ 1658  ls
+ 1659  ls -l
+ 1660  htop
+ 1661  pip3 install views
+ 1662  cd ~/test
+ 1663  ls
+ 1664  cd django
+ 1665  ls
+ 1666  tree
+ 1667  ls
+ 1668  cd testing
+ 1669  ls
+ 1670  python3 manage.py runserver
+ 1671  ls
+ 1672  htop
+ 1673  man calmscan
+ 1674  man clamscan
+ 1675  htop
+ 1676  dmesg|tail
+ 1677  htop
+ 1678  cd /media/ruksana/HD-B1/new_computer(306)/Untitled/Users/Rukshana/Downloads
+ 1679  ls
+ 1680  cd /media/ruksana/HD-B1/new_computer(306)/Untitled/Users/Rukshana/Downloads
+ 1681  cd /media/ruksana/HD-B1/new_computer\(306\)/Untitled/Users/Rukshana/Downloads
+ 1682  rm -r *.exe
+ 1683  vi 7z1514.exe
+ 1684  man lxrun
+ 1685  lxrun
+ 1686  ls
+ 1687  file 7z1514.exe
+ 1688  file chrome.exe
+ 1689  sudo apt install clamav
+ 1690  man clamav
+ 1691  clamav
+ 1692  clamscan
+ 1693  man clamscan
+ 1694  clamscan -ir --remove
+ 1695  ls
+ 1696  sudo clamscan -ir --remove
+ 1697  sudo freshclam
+ 1698  sudo clamscan -ir --remove
+ 1699  clamscan -ir --remove
+ 1700  ls
+ 1701  rm 7z1514.exe
+ 1702  sudo apt install clamtk
+ 1703  man clamscan
+ 1704  clamscan -r --remove(yes)
+ 1705  clamscan -r --remove[yes]
+ 1706  clamscan -r --remove
+ 1707  ls
+ 1708  clamscan --remove chrome.exe
+ 1709  ls
+ 1710  chmod 777 7z1514.exe
+ 1711  rm 7z1514.exe
+ 1712  find . -type f -executable -delete
+ 1713  ls
+ 1714  find . -type f -executable -exec rm '{}' \;
+ 1715  ls
+ 1716  man chkdsk
+ 1717  chkdsk
+ 1718  ls -ls
+ 1719  ls 
+ 1720  ls -la
+ 1721  rm .
+ 1722  rm -d . 
+ 1723  cd .
+ 1724  ls
+ 1725  rm -rd .
+ 1726  rm -rd ..
+ 1727  rm -rd .
+ 1728  rm -r .
+ 1729  rmdir .
+ 1730  rmdir -f .
+ 1731  man rmdir
+ 1732  tree
+ 1733  ping www.sci-hub.bz/
+ 1734  ping sci-hub.bz
+ 1735  ping sci-hub.io
+ 1736  ping google
+ 1737  ping google.co
+ 1738  ping google.com
+ 1739  ping google.io
+ 1740  ping google.bz
+ 1741  ping 82.77.0.83
+ 1742  ping sci-hub.io
+ 1743  ping sci-hub.bz
+ 1744  ping scihub22266oqcxt.onion.link
+ 1745  dmesg
+ 1746  fsck
+ 1747  ps
+ 1748  kill 7110
+ 1749  ps
+ 1750  kill 14513
+ 1751  ps
+ 1752  kill 14513
+ 1753  kill %14513
+ 1754  ps
+ 1755  ls
+ 1756  cd test
+ 1757  ls
+ 1758  cd django
+ 1759  ls
+ 1760  django-admin startproject website
+ 1761  ls
+ 1762  tree
+ 1763  cd website
+ 1764  ls
+ 1765  tree
+ 1766  python3 manage.py runserver
+ 1767  vi temp.txt
+ 1768  history>temp.txt
+ 1769  gedit temp.txt
+ 1770  ls
+ 1771  rm temp.txt
+ 1772  cd ../../
+ 1773  cd ../../ls
+ 1774  ls
+ 1775  cd ../
+ 1776  cd softwares
+ 1777  ls
+ 1778  cd sublime_text_3/bin
+ 1779  cd sublime_text_3
+ 1780  ls
+ 1781  ./sublime_text
+ 1782  history
+ 1783  python3 manage.py startapp music
+ 1784  tree
+ 1785  sudo apt 
+ 1786  sudo apt install gtk-recordmydesktop
+ 1787  gtk-recordmydesktop
+ 1788  cd test
+ 1789  ls
+ 1790  cd django/website
+ 1791  ls
+ 1792  python3 manage.py migrate
+ 1793  python3 manage.py makemigrations music
+ 1794  python3 manage.py migrate
+ 1795  python3 manage.py shell
+ 1796  python3 manage.py createsuperuser
+ 1797  cd test/django/website
+ 1798  python3 manage.py createsuperuser
+ 1799  python3 manage.py runserver
+ 1800  htop
+ 1801  cd test/code
+ 1802  wc -l *
+ 1803  gti clone https://github.com/TUT-ARG/DCASE2016-baseline-system-python
+ 1804  git clone https://github.com/TUT-ARG/DCASE2016-baseline-system-python
+ 1805  ls
+ 1806  cd test/DCASE2016-baseline-system-python
+ 1807  ls
+ 1808  cd src
+ 1809  ls
+ 1810  cd ../
+ 1811  wc -l src
+ 1812  wc -l src/*
+ 1813  tree
+ 1814  wc -l task3_sound_event_detection_in_real_life_audio.py
+ 1815  wc -l task1_scene_classification.py
+ 1816  virtualvenv venv
+ 1817  virtualenv venv
+ 1818  pip3 install -r requirements
+ 1819  pip3 install -r requirements.txt
+ 1820  source ls
+ 1821  ls
+ 1822  source venv/bin/activate
+ 1823  pip3 install -r requirements.txt
+ 1824  pip3 install -r requirements.txt
+ 1825  python3 -m venv venv
+ 1826  sudo apt install python3-venv
+ 1827  sudo apt-get install python3-venv
+ 1828  sudo apt update
+ 1829  sudo apt-get install python3-venv
+ 1830  virtualenv -p python3 test
+ 1831  virtualenv -p python3 venv
+ 1832  virtualenv -p python venv
+ 1833  sudo pip3 install -r requirements.txt
+ 1834  python task1_scene_classification.py -h
+ 1835  python3 task1_scene_classification.py
+ 1836  sudo pip install -r requirements.txt
+ 1837  python task1_scene_classification.py
+ 1838  sudo pip install numpy
+ 1839  ls
+ 1840  python numpy/setup.py install
+ 1841  cd numpy
+ 1842  python setup.py install
+ 1843  python task1_scene_classification.py
+ 1844  cd ../
+ 1845  python task1_scene_classification.py
+ 1846  sudo pip install librosa
+ 1847  deactivate
+ 1848  python task1_scene_classification.py
+ 1849  sudo pip install -r requirements
+ 1850  ls
+ 1851  sudo pip install -r requirements.txt
+ 1852  python task1_scene_classification.py
+ 1853  pip install joblib
+ 1854  pip uninstall joblib
+ 1855  sudo pip uninstall joblib
+ 1856  sudo pip install joblib
+ 1857  pip uninstall joblib
+ 1858  python task1_scene_classification.py
+ 1859  pip install Memory
+ 1860  pip install memory
+ 1861  pip3 install memory
+ 1862  pip install memory
+ 1863  pip install joblib
+ 1864  python3 task1_scene_classification.py
+ 1865  pip3 install cpickle
+ 1866  pip3 install cPickle
+ 1867  pip3 install Pickle
+ 1868  pip install Pickle
+ 1869  pip install six
+ 1870  pip3 install six
+ 1871  pip3 install theano
+ 1872  sudo pip3 install theano
+ 1873  python task1_scene_classification.py
+ 1874  python3 task1_scene_classification.py
+ 1875  sudo pip3 install tk
+ 1876  sudo apt install  python3-tk
+ 1877  python3 task1_scene_classification.py
+ 1878  sudo pip3 install urllib2
+ 1879  sudo pip install urllib2
+ 1880  sudo apt install python3-urllib3
+ 1881  sudo apt install python3-urllib2
+ 1882  python3 task1_scene_classification.py
+ 1883  python task1_scene_classification.py
+ 1884  pip install joblib
+ 1885  python3 task1_scene_classification.py
+ 1886  python3 task1_scene_classification.py -H
+ 1887  python3 task1_scene_classification.py -h
+ 1888  python3 task1_scene_classification.py -development
+ 1889  ls
+ 1890  wc -l *
+ 1891  cd src
+ 1892  wc -l *
+ 1893  cd __pycache__
+ 1894  wc -l *
+ 1895  python3 task1_scene_classification.py
+ 1896  cd ../../
+ 1897  ls
+ 1898  python3 task1_scene_classification.py
+ 1899  python3 task1_scene_classification.py -development
+ 1900  htop
+ 1901  pwd
+ 1902  tree
+ 1903  ls
+ 1904  vi src/ui.pyc
+ 1905  vi src/ui.py
+ 1906  vi test.py
+ 1907  python test.py
+ 1908  python3 test.py
+ 1909  htop
+ 1910  ls 
+ 1911  python test.py
+ 1912  python test.py a
+ 1913  history
+ 1914  python3 task1_scene_classification.py -development
+ 1915  python 
+ 1916  cd /home/ruksana/test/baseline-system-python
+ 1917  ls
+ 1918  python3 task1_scene_classification.py
+ 1919  python3 task1_scene_classification.py -development
+ 1920  cd /home/ruksana/test/baseline-system-python
+ 1921  python3 task1_scene_classification.py -development
+ 1922  cd /media/ruksana/new
+ 1923  grep -nr "a001_0_30.wav"
+ 1924  cd ~/test/baseline-system-python
+ 1925  ls
+ 1926  cd data
+ 1927  ls
+ 1928  grep -nr "a001_0_30.wav"
+ 1929  htop
+ 1930  gcc test.c
+ 1931  ;
+ 1932  gcc test.c
+ 1933  man gpg
+ 1934  ls
+ 1935  ls -ldc Public
+ 1936  ls -ldc Pictures
+ 1937  htop
+ 1938  man expport
+ 1939  man export
+ 1940  vi test.c
+ 1941  sudo apt-get install clang libicu-dev
+ 1942  bash
+ 1943  htop
+ 1944  python 
+ 1945  cd PATH
+ 1946  cd ~
+ 1947  gedit abc.py
+ 1948  python abc.py
+ 1949  cd ~
+ 1950  vi abc.py
+ 1951  python abc.py
+ 1952  sudo apt install samba samba-common system-config-samba python-glade2 gksu
+ 1953  samba
+ 1954  sudo samba
+ 1955  ping 192.168.0.100
+ 1956  ping 192.168.0.101
+ 1957  cd /home/ruksana/test/baseline-system-python
+ 1958  python3 task1_scene_classification.py -development
+ 1959  cd /home/ruksana/test/baseline-system-python
+ 1960  python3 task1_scene_classification.py -development
+ 1961  ping 92.62.251.159
+ 1962  htop
+ 1963  git clone https://github.com/qiuqiangkong/DCASE2016_Task2.git
+ 1964  cd /home/ruksana/test
+ 1965  git clone home/ruksana/test
+ 1966  git clone https://github.com/qiuqiangkong/DCASE2016_Task1.git
+ 1967  pip install hat
+ 1968  sudo pip install hat
+ 1969  sudo pip install cPickle
+ 1970  sudo pip install Pickle
+ 1971  sudo pip install scipy
+ 1972  sudo pip install matplotlib
+ 1973  sudo pip install librosa
+ 1974  sudo pip install wavio
+ 1975  sudo pip install csv
+ 1976  python prepare_data.py --calculate_logmel
+ 1977  cd DCASE2016_Task1
+ 1978  python prepare_data.py --calculate_logmel
+ 1979  sudo pip install wavio
+ 1980  python prepare_data.py --calculate_logmel
+ 1981  python3 prepare_data.py --calculate_logmel
+ 1982  man cp
+ 1983  cp /usr/local/lib/python3.4/dist-packages/wavio-0.0.3-py3.4.egg-info /usr/local/lib/python2.7/dist-packages
+ 1984  cp -r /usr/local/lib/python3.4/dist-packages/wavio-0.0.3-py3.4.egg-info /usr/local/lib/python2.7/dist-packages
+ 1985  sudo cp -r /usr/local/lib/python3.4/dist-packages/wavio-0.0.3-py3.4.egg-info /usr/local/lib/python2.7/dist-packages
+ 1986  sudo cp -r /usr/local/lib/python3.4/dist-packages/wavio.py /usr/local/lib/python2.7/dist-packages
+ 1987  sudo pip install wavio
+ 1988  python -version
+ 1989  python --version
+ 1990  pip-2.7 install wavio
+ 1991  pip2.7 install wavio
+ 1992  python prepare_data.py --calculate_logmel
+ 1993  which python
+ 1994  sudo -E pip install wavio
+ 1995  sudo pip3 remove wavio
+ 1996  sudo pip3 uninstall wavio
+ 1997  sudo pip install wavio
+ 1998  python prepare_data.py --calculate_logmel
+ 1999  sudo pip uninstall wavio
+ 2000  sudo pip install wavio
+ 2001  python prepare_data.py --calculate_logmel
+ 2002  python3 prepare_data.py --calculate_logmel
+ 2003  python prepare_data.py --calculate_logmel
+ 2004  sudo pip install scipy
+ 2005  sudo pip3 uninstall scipy
+ 2006  sudo pip install scipy
+ 2007  python prepare_data.py --calculate_logmel
+ 2008  sudo pip install numpy
+ 2009  sudo pip3 unistall numpy
+ 2010  sudo pip3 uninstall numpy
+ 2011  sudo pip install numpy
+ 2012  python prepare_data.py --calculate_logmel
+ 2013  sudo pip install pillow
+ 2014  python prepare_data.py --calculate_logmel
+ 2015  python -m pip install scipy
+ 2016  sudo python -m pip install scipy
+ 2017  sudo pip -m install scipy
+ 2018  sudo pip install scipy
+ 2019  sudo pip3 uninstall scipy
+ 2020  history>his.txt

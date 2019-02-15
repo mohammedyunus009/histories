@@ -1,0 +1,1000 @@
+ 1000  git push t1
+ 1001  cd ../
+ 1002  rm -r t1
+ 1003  git clone https://github.com/mohammedyunus009/t1.git
+ 1004  mv t1 t11
+ 1005  git clone https://github.com/mohammedyunus009/t1.git
+ 1006  cd t1
+ 1007  ls
+ 1008  cp -r ../t1/* .
+ 1009  cp -r ../t1/* t1
+ 1010  ls
+ 1011  rmdir -r t1
+ 1012  rmdir t1
+ 1013  vi t1
+ 1014  git status
+ 1015  git add t1
+ 1016  git commit -m "initial commit"
+ 1017  git push
+ 1018  lscpu
+ 1019  cd ../../test1
+ 1020  ls
+ 1021  ls ~/.ssh
+ 1022  tree ~/.ssh
+ 1023  ssh-keygen -t rsa
+ 1024  ls
+ 1025  tree /home/ruksana/.ssh/id_rsa
+ 1026  tree /home/ruksana/.ssh
+ 1027  ssh-keygen
+ 1028  ls
+ 1029  vi yu.pub
+ 1030  rm yu1
+ 1031  rm yu1.pub
+ 1032  ssh-keygen -C mohammedyunus009
+ 1033  ls
+ 1034  vi yu1.pub
+ 1035  ssh -i yu1 mohammedyunus009@35.237.250.32
+ 1036  cd test
+ 1037  cd ../test
+ 1038  ls
+ 1039  git clone https://github.com/mohammed-ibrahim/csvsearch.git
+ 1040  vi ../.bashrc
+ 1041  gradle -v
+ 1042  java --version
+ 1043  java -version
+ 1044  ls
+ 1045  less del
+ 1046  rm del
+ 1047  tree delete_after_dev
+ 1048  mkdir grad
+ 1049  cd grad
+ 1050  build.gradle
+ 1051  vi build.gradle
+ 1052  gradle –q hello
+ 1053  gradle –q hello --debug
+ 1054  vi build.gradle
+ 1055  gradle –q hello
+ 1056  gradle -q hello
+ 1057  htop
+ 1058  htop
+ 1059  cd test1
+ 1060  vi y1.pub
+ 1061  ls
+ 1062  vi yu1.pub
+ 1063  ssh -i yu1 mohammedyunus009@35.200.143.3
+ 1064  ssh -i yu1 mohammedyunus009@35.200.146.50 
+ 1065  docker --version
+ 1066  ssh -i yu1 mohammedyunus009@35.200.146.50 
+ 1067  ssh -i yu1 mohammedyunus009@35.200.151.73
+ 1068  ssh -i yu1 mohammedyunus009@35.200.146.50
+ 1069  ssh -i yu1 mohammedyunus009@35.200.146.50
+ 1070  kill %1
+ 1071  ssh -i yu1 mohammedyunus009@35.200.151.73
+ 1072  ssh -i yu1 mohammedyunus009@35.200.146.50
+ 1073  vi yu1.pub
+ 1074  ssh -i yu1 mohammedyunus009@35.200.151.73
+ 1075  history |grep "key"
+ 1076  ssh-keygen -C mohammedyunus009
+ 1077  vi yu2.pub
+ 1078  ssh -i yu2 mohammedyunus009@35.200.151.73
+ 1079  ssh-keygen -C mohammedyunus
+ 1080  vi yu3.pub
+ 1081  ssh -i yu2 mohammedyunus009@35.200.151.73
+ 1082  kill %1
+ 1083  ssh -i yu2 mohammedyunus009@35.200.244.98
+ 1084  df -h
+ 1085  ssh-keygen -C mohammedyunus009
+ 1086  vi full.pub
+ 1087  ssh -i full mohammedyunus009@35.200.151.73
+ 1088  ssh -i yu3 mohammedyunus009@35.200.151.73
+ 1089  ssh-keygen -C mohammed
+ 1090  vi full1.pub
+ 1091  vi full.pub
+ 1092  ssh -i yu3 mohammedyunus009@35.200.151.73
+ 1093  ssh -i full mohammedyunus009@35.200.151.73
+ 1094  ssh -i full1 mohammedyunus009@35.200.151.73
+ 1095  vi full1.pub
+ 1096  ssh -i full1 mohammedyunus009@35.200.151.73
+ 1097  vi /home/ruksana/.ssh/known_hosts
+ 1098  mv /home/ruksana/.ssh/known_hosts /home/ruksana/.ssh/known_hosts1
+ 1099  rm /home/ruksana/.ssh/known_hosts
+ 1100  vi /home/ruksana/.ssh/known_hosts
+ 1101  ssh -i full1 mohammedyunus009@35.200.151.73
+ 1102  ssh -i full1 mohammedyunus@35.200.151.73
+ 1103  kill %1
+ 1104  kill %2
+ 1105  ssh -i full1 mohammedyunus@35.200.151.73
+ 1106  kill %1
+ 1107  rm /home/ruksana/.ssh/known_hosts
+ 1108  ssh -i full1 mohammedyunus@35.200.151.73
+ 1109  ssh -i full1 mohammed@35.200.151.73
+ 1110  kill %1
+ 1111  kill %2
+ 1112  jobs
+ 1113  vi full1
+ 1114  vi full1.pub
+ 1115  rm /home/ruksana/.ssh/known_hosts
+ 1116  ssh -i full1 mohammed@35.200.151.73
+ 1117  kill %1
+ 1118  vi /home/ruksana/.ssh/known_hosts
+ 1119  ssh -i full1 mohammed@35.200.151.73
+ 1120  ssh -i full mohammedyunus009@35.200.151.73
+ 1121  vi /home/ruksana/.ssh/known_hosts
+ 1122  ssh -i full mohammedyunus009@35.200.151.73
+ 1123  ssh -i yu3 mohammedyunus@35.200.244.98
+ 1124  htop
+ 1125  sudo swapoff -a
+ 1126  sudo swapon -a
+ 1127  htop
+ 1128  ssh -i yu1 mohammedyunus009@35.200.146.50
+ 1129  htop
+ 1130  vi full1.pub
+ 1131  vi full.pub
+ 1132  ssh -i full mohammedyunus009@35.200.151.73
+ 1133  htop
+ 1134  ssh -i full mohammedyunus009@35.200.151.73
+ 1135  cd test1
+ 1136  ssh -i "yunus1.pem" ubuntu@13.232.167.172
+ 1137  ssh -i "yunus1.pem" ubuntu@13.232.14.86
+ 1138  htop
+ 1139  ssh -i "yunus1.pem" ubuntu@13.232.167.172
+ 1140  ssh -i "yunus1.pem" ubuntu@13.232.173.60
+ 1141  ssh -i "yunus1.pem" ubuntu@13.232.14.86
+ 1142  ld
+ 1143  ls
+ 1144  vi yunus1.pem
+ 1145  ls
+ 1146  ssh -i "yunus2.pem" ubuntu@ec2-34-207-207-87.compute-1.amazonaws.com
+ 1147  jobs
+ 1148  kill %1
+ 1149  ssh -i "yunus2.pem" ubuntu@34.207.207.87
+ 1150  kill %1
+ 1151  ls
+ 1152  cd test1
+ 1153  ssh -i "yunus2.pem" ubuntu@ec2-34-207-207-87.compute-1.amazonaws.com
+ 1154  kill %1
+ 1155  ls -l
+ 1156  chmod 444 yunus2.pem
+ 1157  ssh -i "yunus1.pem" ubuntu@ec2-13-126-27-178.ap-south-1.compute.amazonaws.com
+ 1158  ssh -i "yunus1.pem" ubuntu@13.232.73.47
+ 1159  ls
+ 1160  vi yu3
+ 1161  vi yu3.pub
+ 1162  ssh -i yu3 mohammeddyunus@35.200.244.98
+ 1163  chmod 400 yu3
+ 1164  ssh -i yu3 mohammeddyunus@35.200.244.98
+ 1165  ssh -i yu3 mohammedyunus@35.200.244.98
+ 1166  ssh -i yu2 mohammedyunus009@35.200.244.98
+ 1167  ssh -i full mohammedyunus009@35.200.244.98
+ 1168  kill %1
+ 1169  vi /home/ruksana/.ssh/known_hosts
+ 1170  rm /home/ruksana/.ssh/known_hosts
+ 1171  vi /home/ruksana/.ssh/known_hosts
+ 1172  ssh -i full mohammedyunus009@35.200.244.98
+ 1173  kill %1
+ 1174  jobs
+ 1175  kill %2
+ 1176  kill %3
+ 1177  kill %4
+ 1178  kill %5
+ 1179  jobs
+ 1180  ssh -i full1 mohammedyunus@35.200.244.98
+ 1181  kill %1
+ 1182  ssh -i full1 mohammed@35.200.244.98
+ 1183  kill %1
+ 1184  ssh -i full1 mohammed@35.200.244.98
+ 1185  kill %1
+ 1186  ls
+ 1187  ssh -i full1 mohammed@35.200.146.50
+ 1188  ssh -i full mohammedyunus009@35.200.146.50
+ 1189  vi yu1.pub
+ 1190  vi yu2.pub
+ 1191  vi full.pub
+ 1192  vi full1.pub
+ 1193  ssh -i full mohammedyunus009@35.200.146.50 
+ 1194  nmap -p 8888 35.200.146.50
+ 1195  nmap -p 80 35.200.146.50
+ 1196  nmap -p 81 35.200.146.50
+ 1197  nmap -p 88 35.200.146.50
+ 1198  nmap -p 88 35.200.151.73
+ 1199  nmap -p 8888 35.200.151.73
+ 1200  ssh
+ 1201  cd test1
+ 1202  cd test2
+ 1203  cd test1
+ 1204  ssh -i full mohammedyunus009@35.200.146.50 
+ 1205  ssh -i full mohammedyunus009@35.200.244.98 
+ 1206  htop
+ 1207  ssh -i full mohammedyunus009@35.200.244.98 
+ 1208  ssh -i full mohammedyunus009@35.200.146.50
+ 1209  vi yunus2
+ 1210  ssh -i full mohammedyunus009@35.200.146.50
+ 1211  kill %1
+ 1212  ssh -i full mohammedyunus009@35.200.146.50
+ 1213  kill %1
+ 1214  ssh -i full mohammedyunus009@35.200.244.98 
+ 1215  clear
+ 1216  ssh -i full mohammedyunus009@35.200.244.98
+ 1217  htop
+ 1218  sudo swapoff -a
+ 1219  sudo swapon -a
+ 1220  htop
+ 1221  sudo swapoff -a
+ 1222  cd test1
+ 1223  ssh -i full mohammedyunus009@35.200.151.73 
+ 1224  ssh -i full mohammedyunus009@35.200.151.73
+ 1225  ssh -i full mohammedyunus009@35.200.151.73 
+ 1226  cd test1
+ 1227  ssh -i full mohammedyunus009@35.200.151.73 
+ 1228  ssh -i full mohammedyunus009@35.200.146.50 
+ 1229  ssh -i full mohammedyunus009@35.200.146.50 
+ 1230  ssh -i full mohammedyunus009@35.200.244.98
+ 1231  cd test1
+ 1232  ssh -i full mohammedyunus009@35.200.244.98
+ 1233  cd test1
+ 1234  ssh -i full mohammedyunus009@35.200.244.98
+ 1235  cd /home/ruksana/workspace_new/big_test/bin/big_test
+ 1236  ls
+ 1237  java simple_db.class
+ 1238  java -cp *.jar simple_db
+ 1239  ls
+ 1240  java -cp mysql-connector.jar simple_db
+ 1241  java -cp mysql-connector.jar simple_db.class
+ 1242  java -cp * simple_db.class
+ 1243  java -c * simple_db.class
+ 1244  java -cp * simple_db.class
+ 1245  javac -classpath mysql-connector.jar *.java
+ 1246  ls
+ 1247  java -classpath mysql-connector.jar *.java
+ 1248  java -cp mysql-connector.jar *.java
+ 1249  java -classpath mysql-connector-java-3.1.14-bin.jar LogServer
+ 1250  ls
+ 1251  java -cp mysql-connector-java-3.1.14-bin.jar simple_db
+ 1252  java -cp mysql-connector-java.jar simple_db
+ 1253  javac -cp mysql-connector-java.jar simple_db.java
+ 1254  java -cp mysql-connector-java.jar simple_db
+ 1255  vi simple_db.java
+ 1256  javac -cp mysql-connector-java.jar simple_db.java
+ 1257  java -cp mysql-connector-java.jar simple_db
+ 1258  javac -cp mysql-connector-java.jar simple_db.java
+ 1259  java -cp mysql-connector-java.jar simple_db
+ 1260  javac -cp mysql-connector-java.jar simple_db.java
+ 1261  javac simple_db.java
+ 1262  javac -cp mysql-connector-java.jar simple_db.java
+ 1263  java simple_db.java
+ 1264  java simple_db
+ 1265  javac -cp mysql-connector-java.jar simple_db.java
+ 1266  java simple_db
+ 1267  javac -classpath mysql-connector.jar simple_db.java
+ 1268  java -classpath mysql-connector.jar simple_db
+ 1269  java -classpath mysql-connector.jar simple_db.class
+ 1270  vi simple_db.java
+ 1271  javac -classpath mysql-connector.jar simple_db.java
+ 1272  java -classpath mysql-connector.jar simple_db.class
+ 1273  java -classpath mysql-connector.jar simple_db
+ 1274  vi test.java
+ 1275  javac -classpath mysql-connector.jar test.java
+ 1276  java -classpath mysql-connector.jar test
+ 1277  javac test.java
+ 1278  java test
+ 1279  java -cp mysql-connector.jar simple_db
+ 1280  javac -cp mysql-connector.jar simple_db
+ 1281  ls
+ 1282  java -cp ~/workspace_new/big_test/bin/big_test/mysql-connector.jar simple_db
+ 1283  java -cp .:mysql-connector.jar simple_db
+ 1284  java -cp .:mysql-connector.jar test
+ 1285  vi test
+ 1286  vi test.java
+ 1287  vi simple_db.java
+ 1288  javac simple_db.java
+ 1289  java -cp .:mysql-connector.jar simple_db
+ 1290  htop
+ 1291  vi test.java
+ 1292  htop
+ 1293  vi test.java
+ 1294  htop
+ 1295  java -version
+ 1296  htop
+ 1297  mysql -u root
+ 1298  mysql -uroot -p
+ 1299  cd test1
+ 1300  ssh -i banu2_key.pem ubuntu@13.232.126.70
+ 1301  ssh -i "banu2_key.pem" ubuntu@13.232.126.70
+ 1302  chmod 400 banu2_key.pem
+ 1303  ssh -i "banu2_key.pem" ubuntu@13.232.126.70
+ 1304  cd test1
+ 1305  ssh -i full mohammedyunus009@35.200.151.73 
+ 1306  ssh -i full mohammedyunus009@35.200.146.50 
+ 1307  cd test1
+ 1308  ssh -i full mohammedyunus009@35.200.146.50 
+ 1309  jobs
+ 1310  ssh -i full mohammedyunus009@35.200.146.50 
+ 1311  cd test/grad
+ 1312  vi test.java
+ 1313  javac test.java
+ 1314  vi test.java
+ 1315  javac test.java
+ 1316  vi test.java
+ 1317  javac test.java
+ 1318  vi build.gradle
+ 1319  javac test.java
+ 1320  java test
+ 1321  D
+ 1322  gradle shadowJar
+ 1323  java -jar ./build/libs/csvsearch.jar
+ 1324  gradle shadowJar
+ 1325  java -jar ./build/libs/csvsearch.jar
+ 1326  gradle shadowJar
+ 1327  java -jar ./build/libs/csvsearch.jar
+ 1328  gradle
+ 1329  gradle test
+ 1330  gradle run
+ 1331  gradle shadowJar
+ 1332  gradle run
+ 1333  gradle shadowJar
+ 1334  gradle run
+ 1335  java -jar ./build/libs/csvsearch.jar
+ 1336  gradle shadowJar
+ 1337  java -jar ./build/libs/csvsearch.jar
+ 1338  gradle shadowJar
+ 1339  java -jar ./build/libs/csvsearch.jar
+ 1340  java -version
+ 1341  gradle shadowJar
+ 1342  htop
+ 1343  test.jar
+ 1344  javac test.java
+ 1345  gradle shadowJar
+ 1346  java -jar ./build/libs/test.jar
+ 1347  htop
+ 1348  cd test1
+ 1349  ls
+ 1350  vi full.pub
+ 1351  ssh -i full mohammedyunus009@35.200.244.98
+ 1352  ls
+ 1353  history |grep "key"
+ 1354  ssh-keygen -C yunustest
+ 1355  vi test.pub
+ 1356  ssh -i test yunustest@35.200.244.98
+ 1357  ssh -i full mohammedyunus009@35.200.244.98
+ 1358  chmod 400 test
+ 1359  ssh -i test yunustest@35.200.244.98
+ 1360  ssh -i full mohammedyunus009@35.200.244.98
+ 1361  ssh -i test yunustest@35.200.244.98
+ 1362  chmod 777 test
+ 1363  ssh -i test yunustest@35.200.244.98
+ 1364  chmod 400 test
+ 1365  ssh -i test yunustest@35.200.244.98
+ 1366  vi /home/ruksana/.ssh/known_hosts
+ 1367  rm /home/ruksana/.ssh/known_hosts
+ 1368  vi /home/ruksana/.ssh/known_hosts
+ 1369  ssh -i test yunustest@35.200.244.98
+ 1370  ssh -i full mohammedyunus009@35.200.244.98
+ 1371  ssh -i test yunustest@35.200.244.98
+ 1372  ssh -i test yunustest@35.200.146.50
+ 1373  ssh -i full mohammedyunus009@35.200.151.73 
+ 1374  ls
+ 1375  ssh -i full mohammedyunus009@35.200.151.73 
+ 1376  exit
+ 1377  ssh -i test yunustest@35.200.146.50
+ 1378  cd test1
+ 1379  ssh -i test yunustest@35.200.146.50
+ 1380  history |grep ".ssh"
+ 1381  vi /home/ruksana/.ssh/known_hosts
+ 1382  rm /home/ruksana/.ssh/known_hosts
+ 1383  vi /home/ruksana/.ssh/known_hosts
+ 1384  ssh -i test yunustest@35.200.146.50
+ 1385  ssh -i full mohammedyunus009@35.200.146.50 
+ 1386  kill %1
+ 1387  rm /home/ruksana/.ssh/known_hosts
+ 1388  vi /home/ruksana/.ssh/known_hosts
+ 1389  ssh -i full mohammedyunus009@35.200.146.50 
+ 1390  jobs
+ 1391  kill %1
+ 1392  vi /home/ruksana/.ssh/known_hosts
+ 1393  ls /home/ruksana/.ssh
+ 1394  vi full.pub
+ 1395  vi /home/ruksana/.ssh/known_hosts
+ 1396  ssh -i full mohammedyunus009@35.200.146.50
+ 1397  ssh -i full mohammedyunus009@35.200.146.50 
+ 1398  ssh -i full mohammedyunus009@35.200.244.98 
+ 1399  cd test1
+ 1400  vi /home/ruksana/.ssh/known_hosts
+ 1401  rm /home/ruksana/.ssh/known_hosts
+ 1402  vi /home/ruksana/.ssh/known_hosts
+ 1403  ssh -i full mohammedyunus009@35.200.244.98
+ 1404  ssh -i full mohammedyunus009@35.200.244.98 
+ 1405  exec "$JAVA"
+ 1406  vi del.sh
+ 1407  sh del.sh
+ 1408  rm del.sh
+ 1409  vi del.sh
+ 1410  sh del.sh
+ 1411  echo "$JAVA" $JAVA_HEAP_MAX $HADOOP_OPTS $CLASS
+ 1412  echo $JAVA_HEAP_MAX $HADOOP_OPTS
+ 1413  echo $JAVA_HEAP_MAX 
+ 1414  echo "$JAVA" $JAVA_HEAP_MAX $HADOOP_OPTS $CLASS $JAVA
+ 1415  htop
+ 1416  sudo -s
+ 1417  cd test1
+ 1418  ssh -i full mohammedyunus009@35.200.244.98
+ 1419  ssh -i full mohammedyunus009@35.200.151.73 
+ 1420  ssh -i full mohammedyunus009@35.200.244.98
+ 1421  ssh -i full mohammedyunus009@35.200.151.73 
+ 1422  clear
+ 1423  ssh -i full mohammedyunus009@35.200.151.73 
+ 1424  clear
+ 1425  cd test1
+ 1426  ssh -i full mohammedyunus009@35.200.146.50 
+ 1427  ssh -i full mohammedyunus009@35.200.146.50 
+ 1428  htop
+ 1429  sudo swapoff -a
+ 1430  htop
+ 1431  sudo swapon -a
+ 1432  htop
+ 1433  cd test1
+ 1434  ssh -i full mohammedyunus009@35.200.151.73 
+ 1435  ls
+ 1436  ssh -i "yunus1.pem" ubuntu@ec2-35-154-30-26.ap-south-1.compute.amazonaws.com
+ 1437  ssh -i full mohammedyunus009@35.200.151.73 
+ 1438  '
+ 1439  '
+ 1440  ssh -i full mohammedyunus009@35.200.151.73
+ 1441  cd test1'=
+ 1442  '
+ 1443  cd test1
+ 1444  l
+ 1445  ssh -i full mohammedyunus009@35.200.151.73
+ 1446  vi full.pub
+ 1447  ssh -i full mohammedyunus009@35.200.151.73 
+ 1448  vi /home/ruksana/.ssh/known_hosts
+ 1449  rm /home/ruksana/.ssh/known_hosts
+ 1450  vi /home/ruksana/.ssh/known_hosts
+ 1451  ssh -i full mohammedyunus009@35.200.151.73 
+ 1452  ssh -i full mohammedyunus009@35.200.151.73
+ 1453  cd test1
+ 1454  ssh -i full mohammedyunus009@35.200.151.73
+ 1455  cd ../Downloads
+ 1456  vi HH_S_Exit_Survey_Salaried_.url
+ 1457  ssh -i full mohammedyunus009@35.200.151.73 
+ 1458  cd test1
+ 1459  ssh -i full mohammedyunus009@35.200.151.73 
+ 1460  java -version
+ 1461  javac -version
+ 1462  htop
+ 1463  cd test1
+ 1464  ls
+ 1465  vi Backup-codes.txt
+ 1466  ssh -i full mohammedyunus009@35.200.151.73 
+ 1467  sudo update-alternatives --config java
+ 1468  java -version
+ 1469  javac -version
+ 1470  sudo update-alternatives --config javac
+ 1471  javac -version
+ 1472  ls /bin
+ 1473  ls /bin/java
+ 1474  sudo ls /bin/java
+ 1475  sudo apt-get update
+ 1476  ls /usr/bin/java
+ 1477  ls /usr/bin/java -l
+ 1478  ls -l /etc/alternatives/java
+ 1479  ls /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+ 1480  ls -l /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+ 1481  cd test2
+ 1482  cd test1
+ 1483  ssh -i full mohammedyunus009@35.200.151.73 
+ 1484  cd test
+ 1485  cd ../test1
+ 1486  ssh -i full mohammedyunus009@35.200.151.73 
+ 1487  dpkg --list|grep java
+ 1488  dpkg --list|grep jdk
+ 1489  sudo ap purge oracle-java8-installer
+ 1490  sudo apt purge oracle-java8-installer
+ 1491  dpkg --list|grep jdk
+ 1492  sudo ap purge openjdk-8-jdk
+ 1493  sudo apt purge openjdk-8-jdk
+ 1494  dpkg --list|grep jdk
+ 1495  sudo apt purge openjdk-8-jdk-headless
+ 1496  dpkg --list|grep jdk
+ 1497  sudo apt purge openjdk-8-jre
+ 1498  dpkg --list|grep jdk
+ 1499  sudo apt purge openjdk-8-jre-headless
+ 1500  dpkg --list|grep jdk
+ 1501  sudo apt purge default-jdk
+ 1502  java -version
+ 1503  javac -version
+ 1504  sudo update-alternatives --config javac
+ 1505  sudo update-alternatives --config java
+ 1506  sudo apt-get install default-jdk
+ 1507  vi /usr/lib/jvm/java-7-oracle
+ 1508  ls /usr/lib/jvm/java-7-oracle
+ 1509  ls /usr/lib/jvm
+ 1510  sudo apt-get install openjdk-7-jre
+ 1511  sudo apt-get install openjdk-7-jdk
+ 1512  ls /etc
+ 1513  ls /etc/environment
+ 1514  JAVA_HOME="/usr/lib/jvm/java-7-oracle"
+ 1515  source /etc/environment
+ 1516  echo $JAVA_HOME
+ 1517  sudo apt-get install oracle-java9-installer
+ 1518  sudo add-apt-repository ppa:webupd8team/java
+ 1519  sudo apt-get install oracle-java9-installer
+ 1520  sudo apt update
+ 1521  which java
+ 1522  s -l /etc/alternatives/java
+ 1523  ls -l /etc/alternatives/java
+ 1524  ls *.java
+ 1525  ls "*.java"
+ 1526  ls |grep *.java
+ 1527  ls |grep "*.java"
+ 1528  vi del.java
+ 1529  javac del.java
+ 1530  java del
+ 1531  ls /usr/bin/java
+ 1532  ls /usr/bin/java -l
+ 1533  ls -l /etc/alternatives/java
+ 1534  ls -l 
+ 1535  /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+ 1536  cd /home/ruksana/softwares/eclipse
+ 1537  ./eclipse
+ 1538  vi /home/ruksana/softwares/eclipse/configuration/1533176704501.log.
+ 1539  vi /home/ruksana/softwares/eclipse/configuration/1533176704501.log
+ 1540  htop
+ 1541  ssh -i full mohammedyunus009@35.200.151.73 
+ 1542  cd test1
+ 1543  ssh -i full mohammedyunus009@35.200.151.73 
+ 1544  ls
+ 1545  ls -d
+ 1546  tree aman
+ 1547  ls
+ 1548  cd delete
+ 1549  ls
+ 1550  python 
+ 1551  ls
+ 1552  virtaulenv venv
+ 1553  virtualenv venv
+ 1554  source ./venv/bin/activate
+ 1555  pip install csvfaker
+ 1556  python 
+ 1557  csvfaker --rows 5 name > names.csv
+ 1558  vi names.csv
+ 1559  csvfaker --rows 100 name > names.csv
+ 1560  vi names.csv
+ 1561  csvfaker --rows 250 name > names.csv
+ 1562  vi names.csv
+ 1563  python 
+ 1564  cd ../test
+ 1565  virtualenv venv
+ 1566  source ./venv/bin/activate
+ 1567  python 
+ 1568  cd test
+ 1569  ls
+ 1570  python 
+ 1571  python t1.py
+ 1572  python 
+ 1573  python t1.py
+ 1574  htop
+ 1575  ssh -i full mohammedyunus009@35.200.155.187 
+ 1576  ssh -i full mohammedyunus009@35.200.162.112 
+ 1577  s
+ 1578  clear
+ 1579  ssh -i full mohammedyunus009@35.200.162.112 
+ 1580  ssh -i full mohammedyunus009@35.200.181.27
+ 1581  cd test1
+ 1582  ls
+ 1583  vi full.pub
+ 1584  ssh -i full mohammedyunus009@
+ 1585  ssh -i full mohammedyunus009@35.200.155.187 
+ 1586  ssh -i full mohammedyunus009@35.200.162.112 
+ 1587  ssh -i full mohammedyunus009@35.200.181.27 
+ 1588  ssh -i full mohammedyunus009@35.200.162.112 
+ 1589  ssh -i full mohammedyunus009@35.200.162.112
+ 1590  kill %1
+ 1591  ssh -i full mohammedyunus009@35.200.181.27
+ 1592  vi ~/.ssh/known_hosts
+ 1593  rm ~/.ssh/known_hosts
+ 1594  vi ~/.ssh/known_hosts
+ 1595  ssh -i full mohammedyunus009@35.200.181.27
+ 1596  cd test1
+ 1597  htop
+ 1598  ssh -i full mohammedyunus009@35.200.181.27
+ 1599  ssh -i full mohammedyunus009@35.200.162.112 
+ 1600  ssh -i full mohammedyunus009@35.200.162.112 
+ 1601  cd test
+ 1602  python t1.py
+ 1603  htop
+ 1604  ssh -i full mohammedyunus009@35.200.181.27
+ 1605  ssh -i full mohammedyunus009@35.200.181.27
+ 1606  cd test1
+ 1607  ssh -i full mohammedyunus009@35.200.181.27
+ 1608  htop
+ 1609  java -version
+ 1610  ls
+ 1611  cd test
+ 1612  ls
+ 1613  python t1.py
+ 1614  htop
+ 1615  sudo swapoff -a
+ 1616  htop
+ 1617  ntfsporgs
+ 1618  ntfsfix
+ 1619  sudo apt install ntfs-3g ntfs-config
+ 1620  sudo apt install ntfsprongs
+ 1621  ssh -i test yunustest@35.200.178.182 
+ 1622  ls
+ 1623  vi yunustest.pub
+ 1624  vi test.pub
+ 1625  ssh -i test yunustest@35.200.178.182 
+ 1626  kill %1
+ 1627  ssh -i full mohammedyunus009@35.200.178.182
+ 1628  kill %1
+ 1629  ls
+ 1630  ssh -i full mohammedyunus009@35.200.235.49
+ 1631  cd test1
+ 1632  ls
+ 1633  vi full.pub
+ 1634  ssh -i full mohammedyunus009@ls
+ 1635  ls
+ 1636  ls |grep "*.pub"
+ 1637  ls |grep *.pub
+ 1638  ls |grep '*.pub'
+ 1639  ls |grep '*/.pub'
+ 1640  ls
+ 1641  vi test.pub
+ 1642  ssh -i test yunustest@35.200.178.182
+ 1643  vi ~/.ssh/known_hosts
+ 1644  rm ~/.ssh/known_hosts
+ 1645  vi ~/.ssh/known_hosts
+ 1646  ssh -i test yunustest@35.200.178.182
+ 1647  ssh -i full mohammedyunus009@35.200.178.182
+ 1648  ssh -i test yunustest@35.200.178.182
+ 1649  ssh -i full mohammedyunus009@35.200.178.182
+ 1650  killl %`
+ 1651  1
+ 1652  ;
+ 1653  /
+ 1654  kill%1
+ 1655  kill %1
+ 1656  ssh -i full mohammedyunus009@35.200.178.182
+ 1657  kill %1
+ 1658  ls
+ 1659  rm ~/.ssh/known_hosts
+ 1660  vi ~/.ssh/known_hosts
+ 1661  ssh -i full mohammedyunus009@35.200.178.182
+ 1662  kill %1
+ 1663  vi ~/.ssh/known_hosts
+ 1664  ssh -i full mohammedyunus009@35.200.178.182
+ 1665  kill %1
+ 1666  ssh -i test yunustest@35.200.235.49
+ 1667  cd /media/ruksana/HD-B1
+ 1668  cd "new_computer(306)
+ 1669  "
+ 1670  cd "new_computer(306)"
+ 1671  ls
+ 1672  ls "Untitled Folder"
+ 1673  ls "Untitled Folder 3"
+ 1674  ls -l
+ 1675  ls ../"desktop_full(121)"
+ 1676  ls -l ../"desktop_full(121)"
+ 1677  ls
+ 1678  ls new-backup
+ 1679  vi new-backup/yunus.txt
+ 1680  ls new-backup/Khaleel_Backup
+ 1681  ls
+ 1682  ls -l
+ 1683  tree new-backup
+ 1684  kill %1
+ 1685  jobs
+ 1686  ls
+ 1687  mv new-backup ../saved_failure
+ 1688  ls
+ 1689  tree d_drive_restore
+ 1690  kill %1
+ 1691  mv d_drive_restore ../saved_failure
+ 1692  ls
+ 1693  tree e_drive_backup
+ 1694  kill%1
+ 1695  kill %1
+ 1696  ls
+ 1697  mv e_drive_backup ../saved_failure
+ 1698  ls
+ 1699  ls Untitled
+ 1700  ls "Untitled Folder"
+ 1701  ls "Untitled Folder 3"
+ 1702  tree "Untitled Folder 3"
+ 1703  kill %1
+ 1704  ls
+ 1705  mv "Untitled Folder 3" ../saved_failure
+ 1706  HTOP
+ 1707  htop
+ 1708  cd test1
+ 1709  vi full.pub
+ 1710  htop
+ 1711  vi full.pub
+ 1712  htop
+ 1713  vi full.pub
+ 1714  cd test1
+ 1715  ssh -i full mohammedyunus009@35.200.235.49 
+ 1716  rm /home/ruksana/.ssh/known_hosts
+ 1717  vi /home/ruksana/.ssh/known_hosts
+ 1718  ssh -i full mohammedyunus009@35.200.235.49 
+ 1719  vi full.pub
+ 1720  ssh -i full mohammedyunus009@35.200.235.49 
+ 1721  rm ~/.ssh/known_hosts
+ 1722  vi ~/.ssh/known_hosts
+ 1723  ssh -i full mohammedyunus009@35.200.235.49 
+ 1724  ls
+ 1725  ls;
+ 1726  ssh -i full mohammedyunus009@35.200.235.49 
+ 1727  rm ~/.ssh/know_hosts
+ 1728  ls ~/.ssh
+ 1729  rm ~/.ssh/known_hosts
+ 1730  vi ~/.ssh/known_hosts
+ 1731  ssh -i full mohammedyunus009@35.200.235.49 
+ 1732  ls
+ 1733  rm ~/.ssh/known_hosts
+ 1734  vi ~/.ssh/known_hosts
+ 1735  ssh -i full mohammedyunus009@35.200.235.49 
+ 1736  kill %1
+ 1737  rm ~/.ssh/known_hosts
+ 1738  vi ~/.ssh/known_hosts
+ 1739  ssh -i full mohammedyunus009@35.200.148.140
+ 1740  rm ~/.ssh/known_hosts
+ 1741  vi ~/.ssh/known_hosts
+ 1742  ssh -i full mohammedyunus009@35.200.148.140
+ 1743  vi ~/.ssh/known_hosts
+ 1744  rm ~/.ssh/known_hosts
+ 1745  vi ~/.ssh/known_hosts
+ 1746  ssh -i full mohammedyunus009@35.200.148.140
+ 1747  kill %1
+ 1748  vi test.pub
+ 1749  ssh -i test yunustest@35.200.148.140
+ 1750  kill %1
+ 1751  ssh -i test yunustest@35.200.235.49 
+ 1752  chmod 400 test
+ 1753  rm ~/.ssh/known_hosts
+ 1754  vi ~/.ssh/known_hosts
+ 1755  ssh -i test yunustest@35.200.235.49 
+ 1756  rm ~/.ssh/known_hosts
+ 1757  ssh -i test yunustest@35.200.235.49
+ 1758  kill %1
+ 1759  vi ~/.ssh/known_hosts
+ 1760  ssh -i full mohammedyunus009@35.200.235.49
+ 1761  ssh -i full mohammedyunus009@35.200.148.140 
+ 1762  ssh -i full mohammedyunus009@35.200.235.49 
+ 1763  clear
+ 1764  ssh -i full mohammedyunus009@35.200.148.140
+ 1765  kill %1
+ 1766  vi ~/.ssh/known_hosts
+ 1767  ssh -i full mohammedyunus009@35.200.235.49
+ 1768  kill %1
+ 1769  ssh -i full mohammedyunus009@35.200.148.140 
+ 1770  cd jars
+ 1771  grep -nr RecordReader
+ 1772  grep -nr URI
+ 1773  htop
+ 1774  htop
+ 1775  cd test1
+ 1776  vi full.pub
+ 1777  ssh -i full mohammedyunus009@35.200.148.140 
+ 1778  rm /home/ruksana/.ssh/known_hosts
+ 1779  vi /home/ruksana/.ssh/known_hosts
+ 1780  ssh -i full mohammedyunus009@35.200.148.140 
+ 1781  ssh -i full mohammedyunus009@35.200.199.213
+ 1782  ssh -i full mohammedyunus009@35.200.199.213 
+ 1783  vi full.pub
+ 1784  ssh -i full mohammedyunus009@35.200.199.213 
+ 1785  rm /home/ruksana/.ssh/known_hosts
+ 1786  vi /home/ruksana/.ssh/known_hosts
+ 1787  ssh -i full mohammedyunus009@35.200.199.213
+ 1788  ssh -i full mohammedyunus009@35.200.237.9
+ 1789  ssh -i full mohammedyunus009@35.200.199.213 
+ 1790  ssh -i full mohammedyunus009@35.200.237.9 
+ 1791  cd test1
+ 1792  ssh -i full mohammedyunus009@35.200.199.213
+ 1793  kill %1
+ 1794  ssh -i full mohammedyunus009@35.200.199.213
+ 1795  kill %1
+ 1796  ssh -i full mohammedyunus009@35.200.148.140 
+ 1797  cd ../jars
+ 1798  grep -nr "Text"
+ 1799  mvn
+ 1800  htop
+ 1801  sudo swapoff -a
+ 1802  cd test1
+ 1803  ssh -i full mohammedyunus009@35.200.237.9 
+ 1804  ssh -i full mohammedyunus009@35.200.237.9
+ 1805  htop
+ 1806  ssh -i full mohammedyunus009@35.200.237.9 
+ 1807  cd test1
+ 1808  ssh -i full mohammedyunus009@35.200.170.159 
+ 1809  ssh -i full mohammedyunus009@35.200.170.159
+ 1810  htop
+ 1811  cd test1
+ 1812  ssh -i full mohammedyunus009@35.200.170.159 
+ 1813  ssh -i full mohammedyunus009@35.200.238.149
+ 1814  htop
+ 1815  ssh -i full mohammedyunus009@35.200.170.159 
+ 1816  kill %1
+ 1817  ssh -i full mohammedyunus009@35.200.238.149
+ 1818  cd test1
+ 1819  ssh -i full mohammedyunus009@35.200.238.149 
+ 1820  htop
+ 1821  cd /media/ruksana
+ 1822  ls
+ 1823  cd 07b9a5ea-76e0-45fd-90db-891f5f26d97f
+ 1824  ls
+ 1825  rm -r lib
+ 1826  rm -r media
+ 1827  rm -r lib
+ 1828  ls
+ 1829  sudo rm -r lib
+ 1830  ls
+ 1831  sudo rm -r lib64 mnt root
+ 1832  sudo rm -r srv lost+found
+ 1833  sudo rm -r media opt
+ 1834  sudo rm -r dev cdrom bin boot etc proc
+ 1835  sudo rm -r run sbin snap sys tmp usr var
+ 1836  sudo rm -r core initrd.img initrd.img.old
+ 1837  sudo rm -r vmlinuz vmlinuz.old
+ 1838  cd ~
+ 1839  htop
+ 1840  python 
+ 1841  ls
+ 1842  source venv/bin/activate
+ 1843  pip install google
+ 1844  python 
+ 1845  htop
+ 1846  source activate kera
+ 1847  source deactivate
+ 1848  deactivate
+ 1849  source activate kera
+ 1850  pip install google
+ 1851  python 
+ 1852  ls
+ 1853  conda install google
+ 1854  htop
+ 1855  python 
+ 1856  htop
+ 1857  python
+ 1858  conda install google-api-python-client
+ 1859  python
+ 1860  pip install google-api-python-client
+ 1861  python 
+ 1862  pip install --upgrade google-api-python-client
+ 1863  python 
+ 1864  cd del
+ 1865  vi a.py
+ 1866  python a.py
+ 1867  vi a.py
+ 1868  python a.py
+ 1869  vi a.py
+ 1870  python a.py
+ 1871  vi a.py
+ 1872  python a.py
+ 1873  pip install --upgrade google-cloud
+ 1874  python a.py
+ 1875  python -c "from google.cloud import storage"
+ 1876  pip install --upgrade protobuf
+ 1877  sudo pip install --upgrade protobuf
+ 1878  pip install --upgrade protobuf
+ 1879  pip install google-cloud
+ 1880  pip install --upgrade google-cloud
+ 1881  python -c "from google.cloud import storage"
+ 1882  vi a.py
+ 1883  python -c "from google.cloud import storage"
+ 1884  python -c "from google import storage"
+ 1885  python -c "import storage"
+ 1886  python -c "import google"
+ 1887  pip install google-cloud
+ 1888  pip --upgrade pip
+ 1889  pip --update pip
+ 1890  pip -update pip
+ 1891  pip update pip
+ 1892  pip upgrade pip
+ 1893  pip install --upgrade pip
+ 1894  pip install google-cloud
+ 1895  conda install google-cloud
+ 1896  conda config --add channels conda-canary
+ 1897  conda install google-cloud
+ 1898  ls
+ 1899  htop
+ 1900  sudo swapoff -a
+ 1901  sudo swapon -a
+ 1902  htop
+ 1903  ssh -i full mohammedyunus009@35.200.238.91 
+ 1904  clear
+ 1905  cd test1
+ 1906  ls
+ 1907  ssh -i full mohammedyunus009@35.200.170.159 
+ 1908  vi ../.bashrc
+ 1909  ssh -i full mohammedyunus009@35.200.170.159 
+ 1910  htop
+ 1911  vi full.pub
+ 1912  ssh -i full mohammedyunus009@35.200.238.91 
+ 1913  vi full.pub
+ 1914  ssh -i full mohammedyunus009@35.200.238.91
+ 1915  rm /home/ruksana/.ssh/known_hosts
+ 1916  vi /home/ruksana/.ssh/known_hosts
+ 1917  ssh -i full mohammedyunus009@35.200.238.91
+ 1918  cd test1
+ 1919  vi full.pub
+ 1920  ssh -i full mohammedyunus009@35.200.238.91
+ 1921  rm /home/ruksana/.ssh/known_hosts
+ 1922  vi /home/ruksana/.ssh/known_hosts
+ 1923  ssh -i full mohammedyunus009@35.200.238.91
+ 1924  ssh -i full mohammedyunus009@35.200.188.148
+ 1925  htop
+ 1926  sudo swapoff -a
+ 1927  sudo swapon -a
+ 1928  cd test1
+ 1929  ssh -i full mohammedyunus009@35.200.250.31 
+ 1930  ls
+ 1931  ssh -i full mohammedyunus009@35.200.157.58 
+ 1932  ssh -i full mohammedyunus009@35.200.250.31 
+ 1933  ssh -i full mohammedyunus009@35.200.157.58 
+ 1934  vi .bashrc
+ 1935  sudo rm -r anaconda
+ 1936  sudo update-grub
+ 1937  htop
+ 1938  sudo swapoff -a
+ 1939  sudo gparted
+ 1940  jobs
+ 1941  htop
+ 1942  ntfs-3g
+ 1943  ntfs
+ 1944  ntfsfix
+ 1945  htop
+ 1946  cd /media/ruksana/HD-B1
+ 1947  cp --verbose -rf /media/ruksana/HD-B1/recovery(21gb) /media/ruksana/1190618F687DE441
+ 1948  cp --verbose -rf "/media/ruksana/HD-B1/recovery(21gb)" "/media/ruksana/1190618F687DE441"
+ 1949  badblocks
+ 1950  man badblocks
+ 1951  ls /dev
+ 1952  lsblk
+ 1953  sudo badblocks -sv /dev/sdb1
+ 1954  sudo badblocks -sv /dev/sdb1|tee a.txt
+ 1955  lsblk
+ 1956  sudo mount -t ntfs -o ro /dev/sda3 /media/farooq
+ 1957  sudo mount -t ntfs -o ro /dev/sda3 /media
+ 1958  sudo cp -r old_12-2-18 /media
+ 1959  sudo umount /dev/sda3
+ 1960  ls
+ 1961  sudo mount -t ntfs -o rw /dev/sda3 /media
+ 1962  htop
+ 1963  man badblocks
+ 1964  man e2fsck
+ 1965  man badblocks
+ 1966  man mke2fs
+ 1967  man badblocks
+ 1968  ls
+ 1969  htop
+ 1970  ls
+ 1971  fdupes
+ 1972  fdupes .
+ 1973  cd /delete/test
+ 1974  cd delete/test
+ 1975  l
+ 1976  s
+ 1977  fdupes .
+ 1978  fdupes -r .
+ 1979  fdupes -rs .
+ 1980  fdupes -rS .
+ 1981  fdupes -rSd .
+ 1982  fdupes -rS .
+ 1983  fdupes -rSd .
+ 1984  fdupes -rdN .
+ 1985  fdupes -rd "/media/ruksana/HD-B1/new_computer(306)"
+ 1986  fdupes -rdN "/media/ruksana/HD-B1/desktop(30-1-18)(127)"
+ 1987  htop
+ 1988  htop
+ 1989  fdupes -rdN "/media/ruksana/saved_failure(236)"
+ 1990  fdupes -rdN "/media/ruksana/HD-B1/saved_failure(236)"
+ 1991  fdupes -rdN "/media/ruksana/HD-B1/yunus(200.3)/mobile_backups"
+ 1992  htop
+ 1993  fdupes -rdN "/media/ruksana/HD-B1/yunus(200.3)/car-pendrive"
+ 1994  fdupes -rdN ~
+ 1995  ls /media/ruksana/HD-B1/project_data
+ 1996  rm "/media/ruksana/HD-B1/project_data/old legacy"
+ 1997  rmdir "/media/ruksana/HD-B1/project_data/old legacy"
+ 1998  rm -r "/media/ruksana/HD-B1/project_data/old legacy"
+ 1999  history >final_his.txt
