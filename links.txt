@@ -1,0 +1,62 @@
+https://www.opencodez.com/python/text-classification-using-keras.htm
+https://towardsdatascience.com/text-classification-in-keras-part-1-a-simple-reuters-news-classifier-9558d34d01d3
+
+
+https://stackoverflow.com/questions/19994396/best-way-to-identify-and-extract-dates-from-text-python
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+
+
+https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37
+
+#sql
+https://docs.microsoft.com/en-us/sql/relational-databases/system-information-schema-views/system-information-schema-views-transact-sql?view=sql-server-2017
+
+
+https://www.digitalvidya.com/blog/popular-types-of-data-visualizations/
+
+
+https://www.noip.com/free
+
+http://supervisord.org/installing.html
+
+https://github.com/unoconv/unoconv/issues/49#issuecomment-5276596
+
+https://packages.ubuntu.com
+https://launchpad.net
+
+
+https://github.com/robintw/daterangeparser/issues/16
+
+
+
+
+
+"""
+
+Data movement into/from Hive 
+
+Dynamic Partition Insert 
+
+Map side joins
+
+Streaming joins
+
+Combiner functions
+
+Importance of setting the Java heap size for the job 
+
+Controlling the number of Mappers and Reducers
+
+Effective use of partitioning the tables
+
+Running the hive scripts interactively
+
+Passing parameters to the Hive scripts at runtime
+
+Creating Hive scripts dynamically using shell scripting
+
+Concept of partitioning in Hive
+
+Understanding Hive thrift services and JDBC, ODBC connectors to Hive
+
+"""
